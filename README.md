@@ -10,7 +10,7 @@
 
 *A curated collection of beginner-to-advanced books for the top 30 trending programming languages*
 
-[![⭐ Star this repository](https://img.shields.io/github/stars/yourusername/repository?style=social)](https://github.com/yourusername/repository)
+[![⭐ Star this repository](https://img.shields.io/github/stars/yourusername/repository?style=social)](https://github.com/sx4im/free-programming-books)
 
 </div>
 
