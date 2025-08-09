@@ -43,8 +43,8 @@
 
 ### 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++
 - [Programming: Principles and Practice Using C++ (Beginner)](PDF_LINK)
-- [Accelerated C++ (Intermediate)](PDF_LINK)
-- [The C++ Programming Language (Advanced)](PDF_LINK)
+- [C++ Primer(Intermediate)](PDF_LINK)
+- [Effective Modern C++ (Advanced)](PDF_LINK)
 
 ### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20"/> Go
 - [The Go Programming Language (Beginner)](PDF_LINK)
