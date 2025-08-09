@@ -39,7 +39,7 @@
 ### 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C#
 - [C# 9.0 in a Nutshell (Beginner)](PDF_LINK)
 - [C# 8.0 and .NET Core 3.0 (Intermediate)](PDF_LINK)
-- [CLR via C# (Advanced)](PDF_LINK)
+- [C# in Depth by Jon Skeet(Advanced)](PDF_LINK)
 
 ### 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++
 - [Programming: Principles and Practice Using C++ (Beginner)](PDF_LINK)
