@@ -5,12 +5,6 @@ Perfect for learners who want a clear, structured path to mastery.
 
 ---
 
-## 📦 Download All Books
-Grab all PDFs at once from our GitHub Releases:  
-**[⬇ Download All (ZIP)](ALL_BOOKS_ZIP_LINK)**
-
----
-
 ## 📜 Table of Contents
 1. [Python](#-python)
 2. [JavaScript](#-javascript)
