@@ -34,7 +34,7 @@
 ### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java
 - [Head First Java (Beginner)](PDF_LINK)
 - [Effective Java (Intermediate)](PDF_LINK)
-- [Java: The Complete Reference (Advanced)](PDF_LINK)
+- [Java Concurrency in Practice  (Advanced)](PDF_LINK)
 
 ### 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C#
 - [C# 9.0 in a Nutshell (Beginner)](PDF_LINK)
