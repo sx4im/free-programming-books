@@ -39,8 +39,7 @@ Perfect for learners who want a clear, structured path to mastery.
 
 ---
 
-## 🐍 Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+## Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
 - 📘 *Python Crash Course* — [PDF](PDF_LINK)  
 - 📗 *Automate the Boring Stuff with Python* — [PDF](PDF_LINK)  
@@ -48,8 +47,7 @@ Perfect for learners who want a clear, structured path to mastery.
 
 ---
 
-## 📜 JavaScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+## JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 
 - 📘 *Eloquent JavaScript* — [PDF](PDF_LINK)  
 - 📗 *You Don’t Know JS* — [PDF](PDF_LINK)  
