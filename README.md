@@ -2,7 +2,6 @@
 
 > **Learn the world's most popular programming languages – free & open-source.**  
 > A curated collection of beginner-to-advanced books for the **top 30 trending languages**.  
-> ⭐ **Star this repo to support the project and unlock download links!**
 
 ---
 
