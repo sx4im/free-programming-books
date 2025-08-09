@@ -28,7 +28,7 @@
 
 ### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
 - [Eloquent JavaScript (Beginner)](PDF_LINK)
-- [You Don’t Know JS Yet (Intermediate)](PDF_LINK)
+- [Modern JavaScript for the Impatient(Intermediate)](PDF_LINK)
 - [JavaScript: The Definitive Guide (Advanced)](PDF_LINK)
 
 ### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java
