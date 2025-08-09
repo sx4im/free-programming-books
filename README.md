@@ -46,7 +46,7 @@ After starring, visit the link below to get all the PDF books:
 - [Go in Action (Intermediate)](PDF_LINK)
 - [Mastering Go (Advanced)](PDF_LINK)
 
-### 7. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="20"/> Rust
+### 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" /> Rust
 - [The Rust Programming Language (Beginner)](PDF_LINK)
 - [Programming Rust (Intermediate)](PDF_LINK)
 - [Rust in Action (Advanced)](PDF_LINK)
@@ -81,7 +81,7 @@ After starring, visit the link below to get all the PDF books:
 - [Programming Dart (Intermediate)](PDF_LINK)
 - [Mastering Dart (Advanced)](PDF_LINK)
 
-### 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" height="20"/> Scala
+### 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="20" /> Scala
 - [Programming in Scala (Beginner)](PDF_LINK)
 - [Scala Cookbook (Intermediate)](PDF_LINK)
 - [Functional Programming in Scala (Advanced)](PDF_LINK)
