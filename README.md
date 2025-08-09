@@ -1,313 +1,184 @@
-# 📚 Trending Programming Languages — Book Collection
+# 📚 30 Most Popular Programming Languages – Beginner to Advanced Books
 
-A curated collection of **Beginner → Advanced** books for the top 30 trending programming languages.  
-Perfect for learners who want a clear, structured path to mastery.  
-
----
-
-## 📜 Table of Contents
-1. [Python](#-python)
-2. [JavaScript](#-javascript)
-3. [Java](#-java)
-4. [C#](#-c)
-5. [C++](#-c-1)
-6. [Go](#-go)
-7. [Rust](#-rust)
-8. [TypeScript](#-typescript)
-9. [PHP](#-php)
-10. [Kotlin](#-kotlin)
-11. [Swift](#-swift)
-12. [Ruby](#-ruby)
-13. [SQL](#-sql)
-14. [Shell](#-shell)
-15. [R](#-r)
-16. [Dart](#-dart)
-17. [Scala](#-scala)
-18. [Lua](#-lua)
-19. [Perl](#-perl)
-20. [Objective-C](#-objective-c)
-21. [Haskell](#-haskell)
-22. [C](#-c-2)
-23. [MATLAB](#-matlab)
-24. [Groovy](#-groovy)
-25. [Elixir](#-elixir)
-26. [F#](#-f)
-27. [Assembly](#-assembly)
-28. [COBOL](#-cobol)
-29. [VB.NET](#-vbnet)
-30. [Fortran](#-fortran)
+> **Learn the world's most popular programming languages – free & open-source.**  
+> A curated collection of beginner-to-advanced books for the **top 30 trending languages**.  
+> ⭐ **Star this repo to support the project and unlock download links!**
 
 ---
 
-## Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+## ⭐ Before You Download
+Please **support this project** by giving it a star on GitHub.  
+After starring, visit the link below to get all the PDF books:
 
-- 📘 *Python Crash Course* — [PDF](PDF_LINK)  
-- 📗 *Automate the Boring Stuff with Python* — [PDF](PDF_LINK)  
-- 📕 *Fluent Python* — [PDF](PDF_LINK)  
-
----
-
-## JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
-- 📘 *Eloquent JavaScript* — [PDF](PDF_LINK)  
-- 📗 *You Don’t Know JS* — [PDF](PDF_LINK)  
-- 📕 *JavaScript: The Definitive Guide* — [PDF](PDF_LINK)  
+➡ [📥 Access Downloads](DOWNLOAD.md)
 
 ---
 
-## ☕ Java
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+## 📖 Languages & Books
 
-- 📘 *Head First Java* — [PDF](PDF_LINK)  
-- 📗 *Effective Java* — [PDF](PDF_LINK)  
-- 📕 *Java Concurrency in Practice* — [PDF](PDF_LINK)  
+### 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
+- [Automate the Boring Stuff with Python (Beginner)](PDF_LINK)
+- [Python Crash Course (Intermediate)](PDF_LINK)
+- [Fluent Python (Advanced)](PDF_LINK)
 
----
+### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
+- [Eloquent JavaScript (Beginner)](PDF_LINK)
+- [You Don’t Know JS Yet (Intermediate)](PDF_LINK)
+- [JavaScript: The Definitive Guide (Advanced)](PDF_LINK)
 
-## 🎯 C#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java
+- [Head First Java (Beginner)](PDF_LINK)
+- [Effective Java (Intermediate)](PDF_LINK)
+- [Java: The Complete Reference (Advanced)](PDF_LINK)
 
-- 📘 *C# 9.0 in a Nutshell* — [PDF](PDF_LINK)  
-- 📗 *Pro C# 9 with .NET 5* — [PDF](PDF_LINK)  
-- 📕 *CLR via C#* — [PDF](PDF_LINK)  
+### 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C#
+- [C# 9.0 in a Nutshell (Beginner)](PDF_LINK)
+- [Pro C# 9 with .NET 5 (Intermediate)](PDF_LINK)
+- [CLR via C# (Advanced)](PDF_LINK)
 
----
+### 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++
+- [Programming: Principles and Practice Using C++ (Beginner)](PDF_LINK)
+- [Accelerated C++ (Intermediate)](PDF_LINK)
+- [The C++ Programming Language (Advanced)](PDF_LINK)
 
-## ⚡ C++
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20"/> Go
+- [The Go Programming Language (Beginner)](PDF_LINK)
+- [Go in Action (Intermediate)](PDF_LINK)
+- [Mastering Go (Advanced)](PDF_LINK)
 
-- 📘 *Programming: Principles and Practice Using C++* — [PDF](PDF_LINK)  
-- 📗 *Accelerated C++* — [PDF](PDF_LINK)  
-- 📕 *The C++ Programming Language* — [PDF](PDF_LINK)  
+### 7. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="20"/> Rust
+- [The Rust Programming Language (Beginner)](PDF_LINK)
+- [Programming Rust (Intermediate)](PDF_LINK)
+- [Rust in Action (Advanced)](PDF_LINK)
 
----
+### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20"/> PHP
+- [PHP & MySQL: Novice to Ninja (Beginner)](PDF_LINK)
+- [Modern PHP (Intermediate)](PDF_LINK)
+- [PHP Objects, Patterns, and Practice (Advanced)](PDF_LINK)
 
-## 🐹 Go
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
+### 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> TypeScript
+- [Learning TypeScript (Beginner)](PDF_LINK)
+- [Effective TypeScript (Intermediate)](PDF_LINK)
+- [Programming TypeScript (Advanced)](PDF_LINK)
 
-- 📘 *The Go Programming Language* — [PDF](PDF_LINK)  
-- 📗 *Go in Action* — [PDF](PDF_LINK)  
-- 📕 *Concurrency in Go* — [PDF](PDF_LINK)  
+### 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20"/> Kotlin
+- [Kotlin Programming: The Big Nerd Ranch Guide (Beginner)](PDF_LINK)
+- [Kotlin in Action (Intermediate)](PDF_LINK)
+- [Advanced Kotlin Programming (Advanced)](PDF_LINK)
 
----
+### 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20"/> Swift
+- [Swift for Absolute Beginners (Beginner)](PDF_LINK)
+- [Pro Swift (Intermediate)](PDF_LINK)
+- [Advanced Swift (Advanced)](PDF_LINK)
 
-## 🦀 Rust
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50"/>
+### 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="20"/> Ruby
+- [The Well-Grounded Rubyist (Beginner)](PDF_LINK)
+- [Eloquent Ruby (Intermediate)](PDF_LINK)
+- [Metaprogramming Ruby (Advanced)](PDF_LINK)
 
-- 📘 *The Rust Programming Language* — [PDF](PDF_LINK)  
-- 📗 *Programming Rust* — [PDF](PDF_LINK)  
-- 📕 *Rust for Rustaceans* — [PDF](PDF_LINK)  
+### 13. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20"/> Dart
+- [Dart Apprentice (Beginner)](PDF_LINK)
+- [Programming Dart (Intermediate)](PDF_LINK)
+- [Mastering Dart (Advanced)](PDF_LINK)
 
----
+### 14. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" height="20"/> Scala
+- [Programming in Scala (Beginner)](PDF_LINK)
+- [Scala Cookbook (Intermediate)](PDF_LINK)
+- [Functional Programming in Scala (Advanced)](PDF_LINK)
 
-## 💙 TypeScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+### 15. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="20"/> Perl
+- [Learning Perl (Beginner)](PDF_LINK)
+- [Intermediate Perl (Intermediate)](PDF_LINK)
+- [Mastering Perl (Advanced)](PDF_LINK)
 
-- 📘 *Learning TypeScript* — [PDF](PDF_LINK)  
-- 📗 *Pro TypeScript* — [PDF](PDF_LINK)  
-- 📕 *Effective TypeScript* — [PDF](PDF_LINK)  
+### 16. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> Haskell
+- [Learn You a Haskell for Great Good! (Beginner)](PDF_LINK)
+- [Programming in Haskell (Intermediate)](PDF_LINK)
+- [Real World Haskell (Advanced)](PDF_LINK)
 
----
+### 17. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="20"/> Elixir
+- [Programming Elixir (Beginner)](PDF_LINK)
+- [Elixir in Action (Intermediate)](PDF_LINK)
+- [Metaprogramming Elixir (Advanced)](PDF_LINK)
 
-## 🌐 PHP
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+### 18. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="20"/> Clojure
+- [Clojure for the Brave and True (Beginner)](PDF_LINK)
+- [Living Clojure (Intermediate)](PDF_LINK)
+- [Mastering Clojure (Advanced)](PDF_LINK)
 
-- 📘 *PHP & MySQL: Novice to Ninja* — [PDF](PDF_LINK)  
-- 📗 *Modern PHP* — [PDF](PDF_LINK)  
-- 📕 *PHP Objects, Patterns, and Practice* — [PDF](PDF_LINK)  
+### 19. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="20"/> Shell (Bash)
+- [Learning the bash Shell (Beginner)](PDF_LINK)
+- [Classic Shell Scripting (Intermediate)](PDF_LINK)
+- [Mastering Unix Shell Scripting (Advanced)](PDF_LINK)
 
----
+### 20. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20"/> MATLAB
+- [MATLAB for Engineers (Beginner)](PDF_LINK)
+- [Programming in MATLAB (Intermediate)](PDF_LINK)
+- [MATLAB: Advanced Guide (Advanced)](PDF_LINK)
 
-## 📱 Kotlin
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/>
+### 21. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20"/> SQL
+- [SQL for Beginners (Beginner)](PDF_LINK)
+- [Learning SQL (Intermediate)](PDF_LINK)
+- [SQL Performance Explained (Advanced)](PDF_LINK)
 
-- 📘 *Kotlin in Action* — [PDF](PDF_LINK)  
-- 📗 *Programming Kotlin* — [PDF](PDF_LINK)  
-- 📕 *Kotlin Coroutines by Tutorials* — [PDF](PDF_LINK)  
+### 22. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="20"/> R
+- [R for Data Science (Beginner)](PDF_LINK)
+- [Advanced R (Intermediate)](PDF_LINK)
+- [The Art of R Programming (Advanced)](PDF_LINK)
 
----
+### 23. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20"/> Lua
+- [Programming in Lua (Beginner)](PDF_LINK)
+- [Lua Programming Gems (Intermediate)](PDF_LINK)
+- [Game Development with Lua (Advanced)](PDF_LINK)
 
-## 🍎 Swift
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"/>
+### 24. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20"/> C
+- [C Programming Absolute Beginner's Guide (Beginner)](PDF_LINK)
+- [Expert C Programming (Intermediate)](PDF_LINK)
+- [The C Programming Language (Advanced)](PDF_LINK)
 
-- 📘 *Swift Programming: The Big Nerd Ranch Guide* — [PDF](PDF_LINK)  
-- 📗 *Swift in Depth* — [PDF](PDF_LINK)  
-- 📕 *Advanced Swift* — [PDF](PDF_LINK)  
+### 25. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="20"/> Julia
+- [Think Julia (Beginner)](PDF_LINK)
+- [Julia Programming Projects (Intermediate)](PDF_LINK)
+- [Mastering Julia (Advanced)](PDF_LINK)
 
----
+### 26. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="20"/> Fortran
+- [Modern Fortran Explained (Beginner)](PDF_LINK)
+- [Fortran 95/2003 for Scientists (Intermediate)](PDF_LINK)
+- [Advanced Fortran (Advanced)](PDF_LINK)
 
-## 💎 Ruby
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50"/>
+### 27. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="20"/> Objective-C
+- [Programming in Objective-C (Beginner)](PDF_LINK)
+- [Effective Objective-C 2.0 (Intermediate)](PDF_LINK)
+- [Advanced Objective-C (Advanced)](PDF_LINK)
 
-- 📘 *The Well-Grounded Rubyist* — [PDF](PDF_LINK)  
-- 📗 *Eloquent Ruby* — [PDF](PDF_LINK)  
-- 📕 *Metaprogramming Ruby* — [PDF](PDF_LINK)  
+### 28. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="20"/> OCaml
+- [OCaml from the Very Beginning (Beginner)](PDF_LINK)
+- [Real World OCaml (Intermediate)](PDF_LINK)
+- [Mastering OCaml (Advanced)](PDF_LINK)
 
----
+### 29. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="20"/> F#
+- [Get Programming with F# (Beginner)](PDF_LINK)
+- [Expert F# (Intermediate)](PDF_LINK)
+- [F# Deep Dive (Advanced)](PDF_LINK)
 
-## 🗄 SQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-
-- 📘 *Learning SQL* — [PDF](PDF_LINK)  
-- 📗 *SQL Cookbook* — [PDF](PDF_LINK)  
-- 📕 *SQL Performance Explained* — [PDF](PDF_LINK)  
-
----
-
-## 🖥 Shell
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
-
-- 📘 *The Linux Command Line* — [PDF](PDF_LINK)  
-- 📗 *Learning the bash Shell* — [PDF](PDF_LINK)  
-- 📕 *Shell Scripting: Expert Recipes* — [PDF](PDF_LINK)  
-
----
-
-## 📊 R
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
-
-- 📘 *R for Data Science* — [PDF](PDF_LINK)  
-- 📗 *Advanced R* — [PDF](PDF_LINK)  
-- 📕 *R Cookbook* — [PDF](PDF_LINK)  
-
----
-
-## 📱 Dart
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
-
-- 📘 *Programming Dart* — [PDF](PDF_LINK)  
-- 📗 *Flutter for Beginners* — [PDF](PDF_LINK)  
-- 📕 *Dart in Action* — [PDF](PDF_LINK)  
-
----
-
-## 🔥 Scala
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50"/>
-
-- 📘 *Programming in Scala* — [PDF](PDF_LINK)  
-- 📗 *Scala Cookbook* — [PDF](PDF_LINK)  
-- 📕 *Functional Programming in Scala* — [PDF](PDF_LINK)  
-
----
-
-## 🌀 Lua
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50"/>
-
-- 📘 *Programming in Lua* — [PDF](PDF_LINK)  
-- 📗 *Lua Quick Start Guide* — [PDF](PDF_LINK)  
-- 📕 *Game Development with Lua* — [PDF](PDF_LINK)  
-
----
-
-## 🐪 Perl
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="50"/>
-
-- 📘 *Learning Perl* — [PDF](PDF_LINK)  
-- 📗 *Intermediate Perl* — [PDF](PDF_LINK)  
-- 📕 *Mastering Perl* — [PDF](PDF_LINK)  
-
----
-
-## 🍏 Objective-C
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="50"/>
-
-- 📘 *Programming in Objective-C* — [PDF](PDF_LINK)  
-- 📗 *Objective-C for Absolute Beginners* — [PDF](PDF_LINK)  
-- 📕 *Cocoa Programming for OS X* — [PDF](PDF_LINK)  
+### 30. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apl/apl-original.svg" height="20"/> APL
+- [Mastering Dyalog APL (Beginner)](PDF_LINK)
+- [APL in Depth (Intermediate)](PDF_LINK)
+- [Advanced APL Techniques (Advanced)](PDF_LINK)
 
 ---
 
-## 📐 Haskell
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50"/>
-
-- 📘 *Learn You a Haskell for Great Good!* — [PDF](PDF_LINK)  
-- 📗 *Real World Haskell* — [PDF](PDF_LINK)  
-- 📕 *Haskell Programming from First Principles* — [PDF](PDF_LINK)  
+## 🤝 Contributing
+Contributions are welcome!  
+If you have a great book suggestion or better resource, fork the repo and submit a pull request.
 
 ---
 
-## 🔵 C
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-
-- 📘 *C Programming Absolute Beginner’s Guide* — [PDF](PDF_LINK)  
-- 📗 *The C Programming Language* — [PDF](PDF_LINK)  
-- 📕 *Expert C Programming* — [PDF](PDF_LINK)  
+## 📜 License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and share with attribution.
 
 ---
 
-## 📊 MATLAB
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
+> ⚡ **Note:** All books are intended for educational purposes. Please ensure you comply with copyright laws in your region.
 
-- 📘 *MATLAB for Engineers* — [PDF](PDF_LINK)  
-- 📗 *MATLAB Programming for Biomedical Engineers* — [PDF](PDF_LINK)  
-- 📕 *MATLAB for Machine Learning* — [PDF](PDF_LINK)  
-
----
-
-## ☕ Groovy
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="50"/>
-
-- 📘 *Groovy in Action* — [PDF](PDF_LINK)  
-- 📗 *Making Java Groovy* — [PDF](PDF_LINK)  
-- 📕 *Groovy for Domain-Specific Languages* — [PDF](PDF_LINK)  
-
----
-
-## 💜 Elixir
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50"/>
-
-- 📘 *Programming Elixir* — [PDF](PDF_LINK)  
-- 📗 *The Little Elixir & OTP Guidebook* — [PDF](PDF_LINK)  
-- 📕 *Designing Elixir Systems with OTP* — [PDF](PDF_LINK)  
-
----
-
-## 🧠 F#
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" width="50"/>
-
-- 📘 *Get Programming with F#* — [PDF](PDF_LINK)  
-- 📗 *Expert F#* — [PDF](PDF_LINK)  
-- 📕 *Real-World Functional Programming* — [PDF](PDF_LINK)  
-
----
-
-## 🛠 Assembly
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="50"/>
-
-- 📘 *Programming from the Ground Up* — [PDF](PDF_LINK)  
-- 📗 *PC Assembly Language* — [PDF](PDF_LINK)  
-- 📕 *Assembly Language for x86 Processors* — [PDF](PDF_LINK)  
-
----
-
-## 🖥 COBOL
-- 📘 *Murach’s Mainframe COBOL* — [PDF](PDF_LINK)  
-- 📗 *COBOL for the 21st Century* — [PDF](PDF_LINK)  
-- 📕 *Beginning COBOL for Programmers* — [PDF](PDF_LINK)  
-
----
-
-## 🖌 VB.NET
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
-
-- 📘 *Beginning VB.NET* — [PDF](PDF_LINK)  
-- 📗 *Professional VB.NET* — [PDF](PDF_LINK)  
-- 📕 *Mastering VB.NET Database Programming* — [PDF](PDF_LINK)  
-
----
-
-## 📏 Fortran
-- 📘 *Modern Fortran Explained* — [PDF](PDF_LINK)  
-- 📗 *Introduction to Fortran* — [PDF](PDF_LINK)  
-- 📕 *Fortran 95/2003 for Scientists & Engineers* — [PDF](PDF_LINK)  
-
----
-
-## 🤝 Contribution
-Want to improve this collection?  
-Fork the repo, add your book recommendations, and create a pull request.  
-
----
-
-## ⭐ Support
-If you find this helpful, give it a star on GitHub and share it with others!  
