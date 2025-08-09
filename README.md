@@ -8,10 +8,6 @@
 
 ## ⭐ Before You Download
 Please **support this project** by giving it a star on GitHub.  
-After starring, visit the link below to get all the PDF books:
-
-➡ [📥 Access Downloads](DOWNLOAD.md)
-
 ---
 
 ## 📖 Languages & Books
