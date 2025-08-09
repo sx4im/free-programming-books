@@ -1,4 +1,4 @@
-# 📚 30 Most Popular Programming Languages – Beginner to Advanced Books
+# 30 Most Popular Programming Languages – Beginner to Advanced Books
 
 <div align="center">
 
