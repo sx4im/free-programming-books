@@ -23,7 +23,7 @@ Please **support this project** by giving it a star on GitHub.
 ## 📖 Languages & Books
 
 ### 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
-- [Automate the Boring Stuff with Python (Beginner)](PDF_LINK)
+- [Automate the Boring Stuff with Python]# Beginner(PDF_LINK)
 - [Python Crash Course (Intermediate)](PDF_LINK)
 - [Fluent Python (Advanced)](PDF_LINK)
 
