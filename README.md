@@ -23,8 +23,8 @@
 
 ### 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
 - [Automate the Boring Stuff with Python](PDF_LINK) *Beginner*
-- [Python Crash Course](PDF_LINK) *Intermediate*
-- [Fluent Python](PDF_LINK) *Advanced*
+- [Python Crash Course](PDF_LINK)                  *Intermediate*
+- [Fluent Python](PDF_LINK)                        *Advanced*
 
 ### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
 - [Eloquent JavaScript (Beginner)](PDF_LINK)
