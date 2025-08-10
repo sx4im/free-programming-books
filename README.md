@@ -1,7 +1,7 @@
   
-## 🎯 Your Go-To Guide for Programming Books — Beginner to Advanced
 <div align="center">
 
+## 🎯 Your Go-To Guide for Programming Books — Beginner to Advanced
 ![Programming Books](https://img.shields.io/badge/Languages-30+-blue?style=for-the-badge&logo=github)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=book)
 ![Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-orange?style=for-the-badge&logo=creative-commons)
