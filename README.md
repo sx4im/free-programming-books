@@ -1,4 +1,3 @@
-<div align="center">
   
 ## 🎯 Your Go-To Guide for Programming Books — Beginner to Advanced
 <div align="center">
