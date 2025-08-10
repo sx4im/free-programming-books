@@ -49,7 +49,7 @@
 ### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20"/> Go
 - [The Go Programming Language (Beginner)](PDF_LINK)
 - [Go in Action (Intermediate)](PDF_LINK)
-- [Mastering Go (Advanced)](PDF_LINK)
+- [Concurrency in Go (Advanced)](PDF_LINK)
 
 ### 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" /> Rust
 - [The Rust Programming Language (Beginner)](PDF_LINK)
@@ -62,14 +62,14 @@
 - [PHP Objects, Patterns, and Practice (Advanced)](PDF_LINK)
 
 ### 9. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20"/> TypeScript
-- [Learning TypeScript (Beginner)](PDF_LINK)
+- [Pro TypeScript: Application-Scale JavaScript Development (Beginner)](PDF_LINK)
 - [Effective TypeScript (Intermediate)](PDF_LINK)
 - [Programming TypeScript (Advanced)](PDF_LINK)
 
 ### 10. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20"/> Kotlin
 - [Kotlin Programming: The Big Nerd Ranch Guide (Beginner)](PDF_LINK)
 - [Kotlin in Action (Intermediate)](PDF_LINK)
-- [Advanced Kotlin Programming (Advanced)](PDF_LINK)
+- [Atomic Kotlin (Advanced)](PDF_LINK)
 
 ### 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20"/> Swift
 - [Swift for Absolute Beginners (Beginner)](PDF_LINK)
