@@ -1,7 +1,7 @@
   
 <div align="center">
 
-### 🎯 ***Programming Books with latest editions — Beginner to Advanced***
+## 🎯 ***Programming Books with latest editions — Beginner to Advanced***
 ![Programming Books](https://img.shields.io/badge/Languages-30+-blue?style=for-the-badge&logo=github)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=book)
 ![Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-orange?style=for-the-badge&logo=creative-commons)
@@ -14,7 +14,7 @@
 
 ---
 
-## ⭐ Before You Download
+### ⭐ Before You Download
 *Please **support this project** by giving it a star on GitHub.* 
 
 ---
