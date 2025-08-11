@@ -72,9 +72,10 @@
 - [Atomic Kotlin (Advanced)](PDF_LINK)
 
 ### 11. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20"/> Swift
-- [Swift for Absolute Beginners (Beginner)](PDF_LINK)
-- [Pro Swift (Intermediate)](PDF_LINK)
-- [Advanced Swift (Advanced)](PDF_LINK)
+- [The Swift Programming Language – Latest edition](PDF_LINK)
+- [Swift Programming: The Big Nerd Ranch Guide](PDF_LINK)
+- [Swift in Depth — 1st Edition (2019)](PDF_LINK)
+- [Hackingwithswift](PDF_LINK)
 
 ### 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="20"/> Ruby
 - [The Well-Grounded Rubyist (Beginner)](PDF_LINK)
