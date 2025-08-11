@@ -75,7 +75,7 @@
 - [The Swift Programming Language – Latest edition](PDF_LINK)
 - [Swift Programming: The Big Nerd Ranch Guide](PDF_LINK)
 - [Swift in Depth — 1st Edition (2019)](PDF_LINK)
-- [Hackingwithswift](PDF_LINK)
+- [Hacking with swift](PDF_LINK)
 
 ### 12. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="20"/> Ruby
 - [The Well-Grounded Rubyist (Beginner)](PDF_LINK)
