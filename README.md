@@ -44,7 +44,7 @@ Once you know the basics, these books will help you write more effective, idioma
     - A collection of specific, actionable tips and best practices to improve your code quality.
 - [**Python Cookbook**](PDF_LINK) (*3rd Edition*)
     - An O'Reilly book full of practical "recipes" for solving common problems in a modern Pythonic way.
-- [**Python Distilled**](PDF_LINK) (*1st Edition*)
+- [**Python Distilled**](PDF_LINK) (*Latest Edition*)
     - A concise and practical guide from a renowned Python expert, focusing on the essential skills for building real-world software.
 
 ---
@@ -55,9 +55,9 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 
 - [**Fluent Python**](PDF_LINK) (*2nd Edition*)
     - The definitive O'Reilly guide to mastering idiomatic, "Pythonic" code by understanding Python's core features deeply.
-- [**Architecture Patterns with Python**](PDF_LINK) (*1st Edition*)
+- [**Architecture Patterns with Python**](PDF_LINK) (*Latest Edition*)
     - Learn to structure your applications for maintainability and scalability using professional design patterns.
-- [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](PDF_LINK) (*1st Edition*)
+- [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](PDF_LINK) (*Latest Edition*)
     - Focuses on the practical aspects of building and deploying production-ready Python applications.
 
 ---
