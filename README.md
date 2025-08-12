@@ -22,9 +22,54 @@
 ### 📖 Languages & Books
 
 ### 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
-- [Automate the Boring Stuff with Python](PDF_LINK) *(Beginner)*
-- [Python Crash Course](PDF_LINK)  *(Intermediate)*
-- [Fluent Python](PDF_LINK)   *(Advanced)*
+# Top 10 Python Books: From Beginner to Pro
+
+A curated list of the best Python books to take you from writing your first script to building professional-grade applications.
+
+---
+
+## For Beginners
+
+These books are perfect if you are new to programming or new to Python.
+
+- [**Automate the Boring Stuff with Python**](PDF_LINK) (*Learn by doing practical tasks*)
+- [**Python Crash Course**](PDF_LINK) (*A project-based introduction*)
+- [**Introducing Python: Modern Computing in Simple Packages**](PDF_LINK) (*A modern, hands-on guide*)
+
+---
+
+## For Intermediate Developers
+
+Once you know the basics, these books will help you write more effective and professional code.
+
+- [**Effective Python: 90 Specific Ways to Write Better Python**](PDF_LINK) (*Learn best practices*)
+- [**Python Cookbook**](PDF_LINK) (*Practical recipes for common problems*)
+
+---
+
+## For Advanced Programmers
+
+Dive deep into Python's features and learn to design robust, large-scale applications.
+
+- [**Fluent Python**](PDF_LINK) (*Mastering idiomatic, "Pythonic" code*)
+- [**Architecture Patterns with Python**](PDF_LINK) (*Learn professional software design*)
+
+---
+
+## For Specialized Fields
+
+Focus on applying Python to a specific professional domain.
+
+- [**Python for Data Analysis**](PDF_LINK) (*The essential guide for data science*)
+- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](PDF_LINK) (*The definitive book for ML engineers*)
+
+---
+
+## Comprehensive Reference
+
+A massive, detailed guide to the core language. Best used as a companion throughout your learning journey.
+
+- [**Learning Python**](PDF_LINK) (*The exhaustive reference guide*)
 
 ### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
 - [Eloquent JavaScript (Beginner)](PDF_LINK)
