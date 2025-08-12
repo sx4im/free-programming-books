@@ -23,7 +23,7 @@
 
 # 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> **Python**
 
-### For Beginners
+### &rarr; For Beginners
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
@@ -38,7 +38,7 @@ These books are perfect if you are new to programming or new to Python. They req
 
 ---
 
-### For Intermediate Developers
+### &rarr; For Intermediate Developers
 
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
@@ -51,7 +51,7 @@ Once you know the basics, these books will help you write more effective, idioma
 
 ---
 
-### For Advanced Programmers
+### &rarr; For Advanced Programmers
 
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
@@ -64,7 +64,7 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 
 ---
 
-### For Specialized Fields
+### &rarr; For Specialized Fields
 
 Focus on applying Python to a specific professional domain like Data Science, Machine Learning, or Web Development.
 
@@ -77,7 +77,7 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 
 ---
 
-## Comprehensive References
+## &rarr; Comprehensive References
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
