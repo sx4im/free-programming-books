@@ -75,7 +75,7 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 
 ---
 
-## &rarr; Comprehensive References
+## ➝ Comprehensive References
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
