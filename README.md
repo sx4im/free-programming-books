@@ -80,6 +80,8 @@ These massive, detailed guides are best used as companions throughout your learn
 - [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
     - A concise and convenient O'Reilly guide for quick lookups of syntax and standard library modules.
 
+---
+
 ### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
 - [Eloquent JavaScript (Beginner)](PDF_LINK)
 - [Modern JavaScript for the Impatient(Intermediate)](PDF_LINK)
