@@ -27,11 +27,11 @@ These books are perfect if you are new to programming or new to Python. They req
 
 - [**Python Crash Course**](https://drive.google.com/file/d/1Tv3Iq_gKy-hbE6Je0QYwfaNRAhNjiULa/view?usp=sharing) (*2nd Edition*)
     - A project-based introduction to building games, web apps, and data visualizations.
-- [**Automate the Boring Stuff with Python**](PDF_LINK) (*2nd Edition*)
+- [**Automate the Boring Stuff with Python**](https://drive.google.com/file/d/1HAvg9-4HW2ZRPHU-morgubdKU0rZmAeS/view?usp=sharing) (*2nd Edition*)
     - Learn Python by automating practical, everyday tasks like working with spreadsheets and files.
-- [**Introducing Python: Modern Computing in Simple Packages**](PDF_LINK) (*2nd Edition*)
+- [**Introducing Python: Modern Computing in Simple Packages**](https://drive.google.com/file/d/12MLwA-BqS-jscalPhWnf2JKK5JC74V6g/view?usp=sharing) (*2nd Edition*)
     - A modern, hands-on guide from O'Reilly that covers the core language and its use in popular fields.
-- [**Head First Python**](PDF_LINK) (*2nd Edition*)
+- [**Head First Python**](https://drive.google.com/file/d/13LinTdVKLxsar6nLoXwo8_M7Nfa6hcbi/view?usp=sharing) (*2nd Edition*)
     - A visually rich book that uses a brain-friendly approach to make learning Python fun and effective.
 
 ---
@@ -40,11 +40,11 @@ These books are perfect if you are new to programming or new to Python. They req
 
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
-- [**Effective Python: 90 Specific Ways to Write Better Python**](PDF_LINK) (*2nd Edition*)
+- [**Effective Python: 90 Specific Ways to Write Better Python**](https://drive.google.com/file/d/1W-qIUtJ3DOOLQGg86m_t8gBVGrjz8OrI/view?usp=sharing) (*2nd Edition*)
     - A collection of specific, actionable tips and best practices to improve your code quality.
-- [**Python Cookbook**](PDF_LINK) (*3rd Edition*)
+- [**Python Cookbook**](https://drive.google.com/file/d/18VgBH8O9Vy1q3zCkpssl6VO8RxzwIKzm/view?usp=sharing) (*3rd Edition*)
     - An O'Reilly book full of practical "recipes" for solving common problems in a modern Pythonic way.
-- [**Python Distilled**](PDF_LINK) (*Latest Edition*)
+- [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
     - A concise and practical guide from a renowned Python expert, focusing on the essential skills for building real-world software.
 
 ---
