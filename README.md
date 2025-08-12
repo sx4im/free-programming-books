@@ -34,7 +34,6 @@ These books are perfect if you are new to programming or new to Python. They req
 - [**Head First Python**](https://drive.google.com/file/d/13LinTdVKLxsar6nLoXwo8_M7Nfa6hcbi/view?usp=sharing) (*2nd Edition*)
     - A visually rich book that uses a brain-friendly approach to make learning Python fun and effective.
 
----
 
 ### ➝ For Intermediate Developers
 
@@ -47,7 +46,6 @@ Once you know the basics, these books will help you write more effective, idioma
 - [**Python Distilled**](https://drive.google.com/file/d/1Vt3Jn8oaBsALVVrUuK4Ho8Qg2wfndgXM/view?usp=sharing) (*Latest Edition*)
     - A concise and practical guide from a renowned Python expert, focusing on the essential skills for building real-world software.
 
----
 
 ### ➝ For Advanced Programmers
 
@@ -60,7 +58,6 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 - [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) (*Latest Edition*)
     - Focuses on the practical aspects of building and deploying production-ready Python applications.
 
----
 
 ### ➝ For Specialized Fields
 
@@ -73,7 +70,6 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 - [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
     - An O'Reilly book that provides a comprehensive introduction to building web applications with Flask.
 
----
 
 ## ➝ Comprehensive References
 
