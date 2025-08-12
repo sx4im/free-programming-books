@@ -25,7 +25,7 @@
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
-- [**Python Crash Course**](PDF_LINK) (*3rd Edition*)
+- [**Python Crash Course**](PDF_LINK) (*2nd Edition*)
     - A project-based introduction to building games, web apps, and data visualizations.
 - [**Automate the Boring Stuff with Python**](PDF_LINK) (*2nd Edition*)
     - Learn Python by automating practical, everyday tasks like working with spreadsheets and files.
