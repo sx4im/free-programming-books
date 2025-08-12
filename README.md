@@ -68,7 +68,7 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 
 - [**Python for Data Analysis**](PDF_LINK) (*3rd Edition*)
     - The essential O'Reilly guide for data science, written by the creator of the pandas library.
-- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](PDF_LINK) (*3rd Edition*)
+- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](PDF_LINK) (*2nd Edition*)
     - The definitive O'Reilly book for aspiring ML engineers, balancing theory and hands-on practice.
 - [**Flask Web Development**](PDF_LINK) (*2nd Edition*)
     - An O'Reilly book that provides a comprehensive introduction to building web applications with Flask.
