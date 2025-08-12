@@ -53,11 +53,11 @@ Once you know the basics, these books will help you write more effective, idioma
 
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
-- [**Fluent Python**](PDF_LINK) (*2nd Edition*)
+- [**Fluent Python**](https://drive.google.com/file/d/1EqAKCmgiWFj_NAAlUxx9mF0h2rSs3Ngf/view?usp=sharing) (*2nd Edition*)
     - The definitive O'Reilly guide to mastering idiomatic, "Pythonic" code by understanding Python's core features deeply.
-- [**Architecture Patterns with Python**](PDF_LINK) (*Latest Edition*)
+- [**Architecture Patterns with Python**](https://drive.google.com/file/d/1lKtXfU0Hs22QOGQiE7m9gEpYnPHbPEBn/view?usp=sharing) (*Latest Edition*)
     - Learn to structure your applications for maintainability and scalability using professional design patterns.
-- [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](PDF_LINK) (*Latest Edition*)
+- [**Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**](https://drive.google.com/file/d/1IpYDx3r32s8wlHBDvgh4vndn_LATqF2n/view?usp=sharing) (*Latest Edition*)
     - Focuses on the practical aspects of building and deploying production-ready Python applications.
 
 ---
@@ -66,11 +66,11 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
 
 Focus on applying Python to a specific professional domain like Data Science, Machine Learning, or Web Development.
 
-- [**Python for Data Analysis**](PDF_LINK) (*3rd Edition*)
+- [**Python for Data Analysis**](https://drive.google.com/file/d/1EhoR0GurifXZUgZRyrROBw1-pR0aPy_B/view?usp=sharing) (*3rd Edition*)
     - The essential O'Reilly guide for data science, written by the creator of the pandas library.
-- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](PDF_LINK) (*2nd Edition*)
+- [**Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow**](https://drive.google.com/file/d/1QbxxppA-wBGA1i2YB3dMCl8xrpORSMrA/view?usp=sharing) (*2nd Edition*)
     - The definitive O'Reilly book for aspiring ML engineers, balancing theory and hands-on practice.
-- [**Flask Web Development**](PDF_LINK) (*2nd Edition*)
+- [**Flask Web Development**](https://drive.google.com/file/d/1_b19XqS6UDqgnKXPlL8Dyeb4LTVqsYYN/view?usp=sharing) (*2nd Edition*)
     - An O'Reilly book that provides a comprehensive introduction to building web applications with Flask.
 
 ---
@@ -79,9 +79,9 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
-- [**Learning Python**](PDF_LINK) (*5th Edition*)
+- [**Learning Python**](https://drive.google.com/file/d/1rIJ6NyKuTAM9hgGC2HDoMKaxBVIcAWt-/view?usp=sharing) (*5th Edition*)
     - O'Reilly's exhaustive, deeply detailed reference on the core Python language itself.
-- [**Python Pocket Reference**](PDF_LINK) (*5th Edition*)
+- [**Python Pocket Reference**](https://drive.google.com/file/d/1fAiatWg2i2BwHviGybMPUrwafRDBtgEg/view?usp=sharing) (*5th Edition*)
     - A concise and convenient O'Reilly guide for quick lookups of syntax and standard library modules.
 
 ### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
