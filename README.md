@@ -21,14 +21,9 @@
 
 ### 📖 Languages & Books
 
-### 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
-# Top 10 Python Books: From Beginner to Pro
+## 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python
 
-A curated list of the best Python books to take you from writing your first script to building professional-grade applications.
-
----
-
-## For Beginners
+### For Beginners
 
 These books are perfect if you are new to programming or new to Python.
 
@@ -38,7 +33,7 @@ These books are perfect if you are new to programming or new to Python.
 
 ---
 
-## For Intermediate Developers
+### For Intermediate Developers
 
 Once you know the basics, these books will help you write more effective and professional code.
 
@@ -47,7 +42,7 @@ Once you know the basics, these books will help you write more effective and pro
 
 ---
 
-## For Advanced Programmers
+### For Advanced Programmers
 
 Dive deep into Python's features and learn to design robust, large-scale applications.
 
@@ -65,7 +60,7 @@ Focus on applying Python to a specific professional domain.
 
 ---
 
-## Comprehensive Reference
+### Comprehensive Reference
 
 A massive, detailed guide to the core language. Best used as a companion throughout your learning journey.
 
