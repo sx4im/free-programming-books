@@ -88,11 +88,11 @@ These massive, detailed guides are best used as companions throughout your learn
 
 These books are perfect for those new to programming or just starting with JavaScript.
 
-- [**Eloquent JavaScript**](PDF_LINK) (*4th Edition*)
+- [**Eloquent JavaScript**](https://drive.google.com/file/d/1Z8AS0zomMHxPY1wbcE6vCp7aD_s0oqxq/view?usp=drive_link) (*4th Edition*)
     - A modern, comprehensive introduction to JavaScript, programming, and the browser. The full book is available for free online.
-- [**JavaScript & JQuery: Interactive Front-End Web Development**](PDF_LINK) (*Latest Edition*)
+- [**JavaScript & JQuery: Interactive Front-End Web Development**](https://drive.google.com/file/d/1IpgSkjIuQ02eg2bFiO4mvGdfMHp66nPp/view?usp=drive_link) (*Latest Edition*)
     - A beautifully designed, visual book that makes learning the fundamentals of front-end development engaging and fun.
-- [**Head First JavaScript Programming**](PDF_LINK) (*Latest Edition*)
+- [**Head First JavaScript Programming**](https://drive.google.com/file/d/17OnxxFaq0KL-JFK_W41EBtOSeH4XBaSr/view?usp=drive_link) (*Latest Edition*)
     - Uses a brain-friendly, visual approach to teach the core concepts of the language in a way that sticks.
 
 
