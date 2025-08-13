@@ -82,10 +82,62 @@ These massive, detailed guides are best used as companions throughout your learn
 
 ---
 
-### 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript
-- [Eloquent JavaScript (Beginner)](PDF_LINK)
-- [Modern JavaScript for the Impatient(Intermediate)](PDF_LINK)
-- [JavaScript: The Definitive Guide (Advanced)](PDF_LINK)
+# 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> *JavaScript*
+
+### For Beginners
+
+These books are perfect for those new to programming or just starting with JavaScript.
+
+- [**Eloquent JavaScript**](PDF_LINK) (*3rd Edition*)
+    - A modern, comprehensive introduction to JavaScript, programming, and the browser. The full book is available for free online.
+- [**JavaScript & JQuery: Interactive Front-End Web Development**](PDF_LINK) (*1st Edition*)
+    - A beautifully designed, visual book that makes learning the fundamentals of front-end development engaging and fun.
+- [**Head First JavaScript Programming**](PDF_LINK) (*1st Edition*)
+    - Uses a brain-friendly, visual approach to teach the core concepts of the language in a way that sticks.
+
+
+### For Intermediate Developers
+
+These books will help you move beyond the basics to understand the core mechanics and write more effective code.
+
+- [**You Don't Know JS Yet**](PDF_LINK) (*2nd Edition Series*)
+    - A famous series of books that dives deep into JavaScript's core mechanisms like scope, closures, `this`, and prototypes. Essential for a true understanding.
+- [**JavaScript: The Good Parts**](PDF_LINK) (*1st Edition*)
+    - A classic, concise book by Douglas Crockford that focuses on the elegant and powerful features of JavaScript while warning against its pitfalls.
+- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](PDF_LINK) (*1st Edition*)
+    - Provides specific, actionable advice and best practices for writing solid, professional JavaScript code.
+
+
+### For Advanced Programmers
+
+Explore advanced patterns, application architecture, and the functional side of the language.
+
+- [**JavaScript Design Patterns**](PDF_LINK) (*1st Edition*)
+    - An O'Reilly book that teaches you how to apply classic and modern design patterns to build robust and maintainable applications.
+- [**Node.js Design Patterns**](PDF_LINK) (*3rd Edition*)
+    - The definitive guide to building scalable, production-ready server-side applications with Node.js.
+- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](PDF_LINK) (*1st Edition*)
+    - A fun and accessible introduction to functional programming concepts using JavaScript. Available for free online.
+
+
+### For Specialized Fields
+
+Focus on applying JavaScript to a specific domain, particularly popular front-end frameworks.
+
+- [**Learning React**](PDF_LINK) (*2nd Edition*)
+    - A modern, hands-on guide from O'Reilly for building applications with the React library.
+- [**Fullstack Vue**](PDF_LINK) (*3rd Edition*)
+    - A comprehensive guide that covers everything you need to know to build professional applications with Vue.js.
+
+
+### Comprehensive References
+
+These massive, detailed guides are best used as companions throughout your learning journey.
+
+- [**JavaScript: The Definitive Guide**](PDF_LINK) (*7th Edition*)
+    - O'Reilly's exhaustive, bible-like reference for the entire JavaScript language and browser APIs.
+- [**JavaScript Pocket Reference**](PDF_LINK) (*3rd Edition*)
+    - A concise and convenient O'Reilly guide for quick lookups of syntax and core features.
 
 ### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java
 - [Head First Java (Beginner)](PDF_LINK)
