@@ -136,7 +136,7 @@ These massive, detailed guides are best used as companions throughout your learn
 
 - [**JavaScript: The Definitive Guide**](https://drive.google.com/file/d/1ZlTJ_sVZst1Hp0o-TSQUM8DsdkpK7Ieq/view?usp=drive_link) (*7th Edition*)
     - O'Reilly's exhaustive, bible-like reference for the entire JavaScript language and browser APIs.
-- [**JavaScript Pocket Reference**](PDF_LINK) (*3rd Edition*)
+- [**JavaScript Pocket Reference**](https://drive.google.com/file/d/1TLqPvemKX4PaRs2zA5JN_09Vvb17BPTU/view?usp=drive_link) (*3rd Edition*)
     - A concise and convenient O'Reilly guide for quick lookups of syntax and core features.
 
 ### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java
