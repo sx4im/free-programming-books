@@ -6,7 +6,7 @@
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=book)
 ![Free](https://img.shields.io/badge/Price-Free%20%26%20Open%20Source-orange?style=for-the-badge&logo=creative-commons)
 
-***Learn the world's most popular programming languages – free & open-source.****
+***Learn the world's most popular programming languages – free & open-source.***
 </div>
 
 ### ⭐ Before You Download
