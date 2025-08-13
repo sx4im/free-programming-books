@@ -102,9 +102,9 @@ These books will help you move beyond the basics to understand the core mechanic
 
 - [**You Don't Know JS Yet**](PDF_LINK) (*2nd Edition Series*)
     - A famous series of books that dives deep into JavaScript's core mechanisms like scope, closures, `this`, and prototypes. Essential for a true understanding.
-- [**JavaScript: The Good Parts**](PDF_LINK) (*1st Edition*)
+- [**JavaScript: The Good Parts**](PDF_LINK) (*Latest Edition*)
     - A classic, concise book by Douglas Crockford that focuses on the elegant and powerful features of JavaScript while warning against its pitfalls.
-- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](PDF_LINK) (*1st Edition*)
+- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](PDF_LINK) (*Latest Edition*)
     - Provides specific, actionable advice and best practices for writing solid, professional JavaScript code.
 
 
@@ -112,11 +112,11 @@ These books will help you move beyond the basics to understand the core mechanic
 
 Explore advanced patterns, application architecture, and the functional side of the language.
 
-- [**JavaScript Design Patterns**](PDF_LINK) (*1st Edition*)
+- [**JavaScript Design Patterns**](PDF_LINK) (*Latest Edition*)
     - An O'Reilly book that teaches you how to apply classic and modern design patterns to build robust and maintainable applications.
 - [**Node.js Design Patterns**](PDF_LINK) (*3rd Edition*)
     - The definitive guide to building scalable, production-ready server-side applications with Node.js.
-- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](PDF_LINK) (*1st Edition*)
+- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](PDF_LINK) (*Latest Edition*)
     - A fun and accessible introduction to functional programming concepts using JavaScript. Available for free online.
 
 
