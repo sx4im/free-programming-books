@@ -124,9 +124,9 @@ Explore advanced patterns, application architecture, and the functional side of 
 
 Focus on applying JavaScript to a specific domain, particularly popular front-end frameworks.
 
-- [**Learning React**](PDF_LINK) (*2nd Edition*)
+- [**Learning React**](https://drive.google.com/file/d/1cFv5MXLNO83YBiYpftcHU6lxR4chkV__/view?usp=drive_link) (*2nd Edition*)
     - A modern, hands-on guide from O'Reilly for building applications with the React library.
-- [**Fullstack Vue**](PDF_LINK) (*3rd Edition*)
+- [**Fullstack Vue**](https://drive.google.com/file/d/1uxzVmhe5w1GfDB3ZAgKIbAYS0IzIG5Yd/view?usp=drive_link) (*3rd Edition*)
     - A comprehensive guide that covers everything you need to know to build professional applications with Vue.js.
 
 
