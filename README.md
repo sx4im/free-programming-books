@@ -134,7 +134,7 @@ Focus on applying JavaScript to a specific domain, particularly popular front-en
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
-- [**JavaScript: The Definitive Guide**](PDF_LINK) (*7th Edition*)
+- [**JavaScript: The Definitive Guide**](https://drive.google.com/file/d/1ZlTJ_sVZst1Hp0o-TSQUM8DsdkpK7Ieq/view?usp=drive_link) (*7th Edition*)
     - O'Reilly's exhaustive, bible-like reference for the entire JavaScript language and browser APIs.
 - [**JavaScript Pocket Reference**](PDF_LINK) (*3rd Edition*)
     - A concise and convenient O'Reilly guide for quick lookups of syntax and core features.
