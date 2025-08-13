@@ -9,6 +9,8 @@
 ***Learn the world's most popular programming languages – free & open-source.***
 </div>
 
+---
+
 ### ⭐ Before You Download
 *Please **support this project** by giving it a star on GitHub.* 
 
