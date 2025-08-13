@@ -139,10 +139,63 @@ These massive, detailed guides are best used as companions throughout your learn
 - [**JavaScript Pocket Reference**](https://drive.google.com/file/d/1TLqPvemKX4PaRs2zA5JN_09Vvb17BPTU/view?usp=drive_link) (*3rd Edition*)
     - A concise and convenient O'Reilly guide for quick lookups of syntax and core features.
 
-### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java
-- [Head First Java (Beginner)](PDF_LINK)
-- [Effective Java (Intermediate)](PDF_LINK)
-- [Java Concurrency in Practice  (Advanced)](PDF_LINK)
+---
+
+### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> *Java*
+
+### For Beginners
+
+These books are designed for those new to programming or just starting their journey with Java.
+
+- [**Head First Java**](PDF_LINK) (*3rd Edition*)
+    - Famous for its unique, visual, and brain-friendly approach that makes learning Java's core concepts engaging and memorable.
+- [**Java: A Beginner's Guide**](PDF_LINK) (*10th Edition*)
+    - A classic, step-by-step tutorial by Herbert Schildt that thoroughly covers the core language features.
+- [**Core Java Volume I — Fundamentals**](PDF_LINK) (*12th Edition*)
+    - A highly respected and deeply detailed guide for serious beginners who want a professional-level understanding of the Java language and platform.
+
+
+### For Intermediate Developers
+
+Once you understand the syntax, these books will teach you how to write robust, professional, and effective Java code.
+
+- [**Effective Java**](PDF_LINK) (*3rd Edition*)
+    - The definitive, must-have guide by Joshua Bloch. It consists of specific, actionable items to help you write better, clearer, and more correct code.
+- [**Core Java Volume II — Advanced Features**](PDF_LINK) (*12th Edition*)
+    - The logical next step after Volume I, this book covers advanced topics like the Streams API, file I/O, networking, and database programming.
+- [**The Well-Grounded Java Developer**](PDF_LINK) (*2nd Edition*)
+    - Focuses on modern Java features (Java 11+), including modules, new concurrency models, and best practices for contemporary development.
+
+
+### For Advanced Programmers
+
+These books tackle complex topics like concurrency, performance, and application architecture.
+
+- [**Java Concurrency in Practice**](PDF_LINK) (*1st Edition*)
+    - The bible for concurrent programming in Java. Though older, its fundamental concepts remain essential for building safe multi-threaded applications.
+- [**Java Performance: The Definite Guide**](PDF_LINK) (*1st Edition*)
+    - An O'Reilly book that provides tools and techniques for monitoring, tuning, and improving the performance of your Java applications.
+- [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](PDF_LINK) (*1st Edition*)
+    - While not specific to Java, Robert C. Martin's guide on software architecture is essential reading for senior Java developers building maintainable systems.
+
+
+### For Specialized Fields
+
+Focus on applying Java to a specific professional domain, particularly with the Spring Framework.
+
+- [**Spring in Action**](PDF_LINK) (*6th Edition*)
+    - The go-to, hands-on guide for learning the Spring Framework, which is the dominant ecosystem for building enterprise Java applications.
+- [**High-Performance Java Persistence**](PDF_LINK) (*1st Edition*)
+    - The definitive guide for understanding and optimizing data access with JPA and Hibernate.
+
+
+### Comprehensive References
+
+A massive, detailed guide that is best used as a companion throughout your learning journey.
+
+- [**Java: The Complete Reference**](PDF_LINK) (*13th Edition*)
+    - An exhaustive, 1000+ page reference by Herbert Schildt that covers the entire Java language and its core libraries.
+
 
 ### 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C#
 - [C# 9.0 in a Nutshell (Beginner)](PDF_LINK)
