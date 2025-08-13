@@ -141,9 +141,9 @@ These massive, detailed guides are best used as companions throughout your learn
 
 ---
 
-### 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> *Java*
+# 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> *Java*
 
-### For Beginners
+### ➝ For Beginners
 
 These books are designed for those new to programming or just starting their journey with Java.
 
@@ -155,7 +155,7 @@ These books are designed for those new to programming or just starting their jou
     - A highly respected and deeply detailed guide for serious beginners who want a professional-level understanding of the Java language and platform.
 
 
-### For Intermediate Developers
+### ➝ For Intermediate Developers
 
 Once you understand the syntax, these books will teach you how to write robust, professional, and effective Java code.
 
@@ -167,7 +167,7 @@ Once you understand the syntax, these books will teach you how to write robust, 
     - Focuses on modern Java features (Java 11+), including modules, new concurrency models, and best practices for contemporary development.
 
 
-### For Advanced Programmers
+### ➝ For Advanced Programmers
 
 These books tackle complex topics like concurrency, performance, and application architecture.
 
@@ -179,7 +179,7 @@ These books tackle complex topics like concurrency, performance, and application
     - While not specific to Java, Robert C. Martin's guide on software architecture is essential reading for senior Java developers building maintainable systems.
 
 
-### For Specialized Fields
+### ➝ For Specialized Fields
 
 Focus on applying Java to a specific professional domain, particularly with the Spring Framework.
 
@@ -189,7 +189,7 @@ Focus on applying Java to a specific professional domain, particularly with the 
     - The definitive guide for understanding and optimizing data access with JPA and Hibernate.
 
 
-### Comprehensive References
+### ➝ Comprehensive References
 
 A massive, detailed guide that is best used as a companion throughout your learning journey.
 
