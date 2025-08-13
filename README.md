@@ -138,7 +138,7 @@ These massive, detailed guides are best used as companions throughout your learn
 
 ---
 
-# 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> *Java*
+# 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java
 
 ### ➝ For Beginners
 
