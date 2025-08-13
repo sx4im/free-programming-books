@@ -100,11 +100,11 @@ These books are perfect for those new to programming or just starting with JavaS
 
 These books will help you move beyond the basics to understand the core mechanics and write more effective code.
 
-- [**You Don't Know JS Yet**](PDF_LINK) (*2nd Edition Series*)
+- [**You Don't Know JS Yet Series*](https://drive.google.com/drive/folders/1KVPu5zMerN2ky7_NaVDq6I5N2ZJXbPN0?usp=drive_link) (*2nd Edition Series*)
     - A famous series of books that dives deep into JavaScript's core mechanisms like scope, closures, `this`, and prototypes. Essential for a true understanding.
-- [**JavaScript: The Good Parts**](PDF_LINK) (*Latest Edition*)
+- [**JavaScript: The Good Parts**](https://drive.google.com/file/d/19bfwUL8aTigDnEYxNFqpmX6y1uIo2WyO/view?usp=drive_link) (*Latest Edition*)
     - A classic, concise book by Douglas Crockford that focuses on the elegant and powerful features of JavaScript while warning against its pitfalls.
-- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](PDF_LINK) (*Latest Edition*)
+- [**Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript**](https://drive.google.com/file/d/1dTfT3r_Ds2dEGW0bx0h9YK7iMzq5bJ7g/view?usp=drive_link) (*Latest Edition*)
     - Provides specific, actionable advice and best practices for writing solid, professional JavaScript code.
 
 
