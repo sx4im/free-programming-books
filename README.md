@@ -112,11 +112,11 @@ These books will help you move beyond the basics to understand the core mechanic
 
 Explore advanced patterns, application architecture, and the functional side of the language.
 
-- [**Learning JavaScript Design Patterns**](PDF_LINK) (*2nd Edition*)
+- [**Learning JavaScript Design Patterns**](https://drive.google.com/file/d/1W6yznBiKcXJEtdGO-r4bE4cB12N1YHYP/view?usp=drive_link) (*2nd Edition*)
     - An O'Reilly book that teaches you how to apply classic and modern design patterns to build robust and applications.
-- [**Node.js Design Patterns**](PDF_LINK) (*3rd Edition*)
+- [**Node.js Design Patterns**](https://drive.google.com/file/d/1oOnmbcRtCA8Z4fWxJPxyvsSC0gpAaRc6/view?usp=drive_link) (*3rd Edition*)
     - The definitive guide to building scalable, production-ready server-side applications with Node.js.
-- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](PDF_LINK) (*Latest Edition*)
+- [**Professor Frisby's Mostly Adequate Guide to Functional Programming**](https://drive.google.com/file/d/1QkHLENfNrpfBkdjQ2M5miqSpHrSWyDyg/view?usp=drive_link) (*Latest Edition*)
     - A fun and accessible introduction to functional programming concepts using JavaScript. Available for free online.
 
 
