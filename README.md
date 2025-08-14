@@ -254,7 +254,7 @@ Dive deep into the .NET runtime, software architecture, and advanced programming
 
 Focus on applying C# to specific professional domains like game development or microservices.
 
-- [**Unity in Action**](PDF_LINK) (*3rd Edition*)
+- [**Unity in Action**](PDF_LINK) (*2nd Edition*)
     - A practical, project-based guide to building games with C# and the Unity engine.
 - [**Pro Microservices in .NET core**](PDF_LINK) (*Latest Edition*)
     - A comprehensive guide to designing, developing, and deploying microservice-based applications using the .NET stack.
