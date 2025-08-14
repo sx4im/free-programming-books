@@ -246,7 +246,7 @@ Dive deep into the .NET runtime, software architecture, and advanced programming
     - A practical guide to using Dependency Injection, a critical technique for building maintainable and testable large-scale applications.
 - **[Adaptive Code: Agile coding with design patterns and SOLID principles](PDF_LINK)** (*2nd Edition*)
     - Focuses on writing flexible and adaptable code using SOLID principles and design patterns in C#.
-- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design](PDF_LINK)** (*1st Edition*)
+- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design](PDF_LINK)** (*Latest Edition*)
     - While not C#-specific, this is essential reading for any senior developer aiming to build robust and scalable systems.
 
 
@@ -256,7 +256,7 @@ Focus on applying C# to specific professional domains like game development or m
 
 - [**Unity in Action**](PDF_LINK) (*3rd Edition*)
     - A practical, project-based guide to building games with C# and the Unity engine.
-- [**Pro Microservices in .NET 6**](PDF_LINK) (*1st Edition*)
+- [**Pro Microservices in .NET 6**](PDF_LINK) (*Latest Edition*)
     - A comprehensive guide to designing, developing, and deploying microservice-based applications using the .NET stack.
 
 
