@@ -263,9 +263,9 @@ Focus on applying C# to specific professional domains like game development or m
 ## Comprehensive References
 
 These guides are perfect for quick lookups and as detailed companions throughout your career.
-- [**Programming C# 8.0**](PDF_LINK) (*8th Edition*)
+- [**Programming C# 10**](PDF_LINK) (*Latest Edition*)
     - O'Reilly's in-depth tutorial and reference that provides a complete overview of the C# language and the .NET Core runtime.
-- [**C# in a Nutshell**](PDF_LINK) (*10th Edition*)
+- [**C# 10 in a Nutshell**](PDF_LINK) (*Latest Edition*)
     - The definitive O'Reilly reference for C#. It's a massive, comprehensive book covering the language and the .NET libraries in great detail.
 - [**C# 10 Pocket Reference**](PDF_LINK) (*1st Edition*)
     - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax on the fly.
