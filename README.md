@@ -157,13 +157,13 @@ These books are designed for those new to programming or just starting their jou
 
 Once you understand the syntax, these books will teach you how to write robust, professional, and effective Java code.
 
-- [**Effective Java**](PDF_LINK) (*3rd Edition*)
+- [**Effective Java**](https://drive.google.com/file/d/1iTI492QvudYpqeitJfNFGbpv_svNSmk5/view?usp=drive_link) (*3rd Edition*)
     - The definitive, must-have guide by Joshua Bloch. It consists of specific, actionable items to help you write better, clearer, and more correct code.
-- [**Java Cookbook**](PDF_LINK) (*4th Edition*)
+- [**Java Cookbook**](https://drive.google.com/file/d/1dVX0IMKequlab-Y57dBkX0Oljt812XQ4/view?usp=drive_link) (*4th Edition*)
     - An excellent O'Reilly book full of practical "recipes" for solving common problems, from working with strings and data to network programming.
-- [**Core Java Volume II — Advanced Features**](PDF_LINK) (*13th Edition*)
+- [**Core Java Volume II — Advanced Features**](https://drive.google.com/file/d/1UBeNIyG0ax3F0lGFwHtNpyqO9iXDgVyE/view?usp=drive_link) (*13th Edition*)
     - The logical next step after Volume I, this book covers advanced topics like the Streams API, file I/O, networking, and database programming.
-- [**The Well-Grounded Java Developer**](PDF_LINK) (*2nd Edition*)
+- [**The Well-Grounded Java Developer**](https://drive.google.com/file/d/1pLhjwG9rYLzr3PHwaCREk_Scyrn483-y/view?usp=drive_link) (*2nd Edition*)
     - Focuses on modern Java features (Java 11+), including modules, new concurrency models, and best practices for contemporary development.
 
 
