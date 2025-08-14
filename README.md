@@ -212,13 +212,13 @@ A massive, detailed guide that is best used as a companion throughout your learn
 
 These books are designed for those with no prior C# experience and provide a solid foundation in the language and the .NET ecosystem.
 
-- [**The C# Player's Guide**](PDF_LINK) (*5th Edition*)
+- [**The C# Player's Guide**](https://drive.google.com/file/d/1WJ-FnkSbmiPaBKuEnQs3sDR7G5pSWP7R/view?usp=drive_link) (*5th Edition*)
     - A fun, project-based book that teaches C# by having you complete "quests" and "boss battles." Highly recommended for beginners.
-- [**Head First C#**](PDF_LINK) (*4th Edition*)
+- [**Head First C#**](https://drive.google.com/file/d/1mZWdD8qCBBzyasC2qdbVnBKoKlZ-DD1w/view?usp=drive_link) (*4th Edition*)
     - O'Reilly's classic visual guide that uses a brain-friendly approach to teach C# and Visual Studio in an engaging way.
-- [**Illustrated C#**](PDF_LINK) (*5th Edition*)
+- [**Illustrated C#**](https://drive.google.com/file/d/1HuGFTlncXsmJv-s2YJ0KPrH8lOgMMpZy/view?usp=drive_link) (*5th Edition*)
     - A beautifully illustrated and concise guide that makes complex C# concepts easy to understand.
-- [**Pro C# 10 with .NET 6**](PDF_LINK) (*11th Edition*)
+- [**Pro C# 10 with .NET 6**](https://drive.google.com/file/d/1OaBsJv0ddWMGXXQAmGQ1dSFl3BfS6cBp/view?usp=drive_link) (*11th Edition*)
     - A massive, comprehensive guide for serious beginners who want an in-depth, professional-level introduction to C# and the .NET platform.
 
 
@@ -226,13 +226,13 @@ These books are designed for those with no prior C# experience and provide a sol
 
 These books will help you move beyond syntax to truly understand the language's features and write effective, professional code.
 
-- [**C# in Depth**](PDF_LINK) (*4th Edition*)
+- [**C# in Depth**](https://drive.google.com/file/d/1Hb38MBdK_Bh8k1J10QBpWYGl_mzVUuSU/view?usp=drive_link) (*4th Edition*)
     - The definitive, must-own book for every C# developer, written by the legendary Jon Skeet. It explains the "how" and "why" behind C#'s features.
-- [**Effective C#**](PDF_LINK) (*3rd Edition*)
+- [**Effective C#**](https://drive.google.com/file/d/14d4FYI3Wcm9_LQ20IO0uCo6ivp89J6aZ/view?usp=drive_link) (*3rd Edition*)
     - Provides 50 specific, actionable best practices to help you write clearer, more efficient, and robust C# code.
-- [**Concurrency in C# Cookbook**](PDF_LINK) (*2nd Edition*)
+- [**Concurrency in C# Cookbook**](https://drive.google.com/file/d/1hg-dVHC4KuQLWBWkRfYtdjO7O3CCdIod/view?usp=drive_link) (*2nd Edition*)
     - An essential guide to modern asynchronous programming in C#, with practical recipes for using `async` and `await` effectively.
-- [**Pro ASP.NET Core 6**](PDF_LINK) (*9th Edition*)
+- [**Pro ASP.NET Core 6**](https://drive.google.com/file/d/1w8qf77yV5ym7_4ocp1-chph_W13B54GU/view?usp=drive_link) (*9th Edition*)
     - The go-to comprehensive guide for building modern, professional web applications with ASP.NET Core.
 
 
