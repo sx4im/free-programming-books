@@ -144,13 +144,13 @@ These massive, detailed guides are best used as companions throughout your learn
 
 These books are designed for those new to programming or just starting their journey with Java.
 
-- [**Head First Java**](PDF_LINK) (*3rd Edition*)
+- [**Head First Java**](https://drive.google.com/file/d/1q9WOzPk3jl1MZq8jH0Ab553HYLchE0ac/view?usp=sharing) (*3rd Edition*)
     - Famous for its unique, visual, and brain-friendly approach that makes learning Java's core concepts engaging and memorable.
-- [**Java: A Beginner's Guide**](PDF_LINK) (*8th Edition*)
+- [**Java: A Beginner's Guide**](https://drive.google.com/file/d/1N0mbPu61TTbIu-czjt5F41z7R2WWbG_K/view?usp=drive_link) (*8th Edition*)
     - A classic, step-by-step tutorial by Herbert Schildt that thoroughly covers the core language features.
-- [**Core Java Volume I — Fundamentals**](PDF_LINK) (*13th Edition*)
+- [**Core Java Volume I — Fundamentals**](https://drive.google.com/file/d/1Wg4jaBfblzrkjL4XIDgvnw4aY7AM-p9E/view?usp=drive_link) (*13th Edition*)
     - A highly respected and deeply detailed guide for serious beginners who want a professional-level understanding of the Java language and platform.
-- [**Learning Java**](PDF_LINK) (*5th Edition*)
+- [**Learning Java**](https://drive.google.com/file/d/1gwDLRPrdqbTp5mrUUdFWiUJFdjQnBPBa/view?usp=drive_link) (*5th Edition*)
     - A classic O'Reilly foundational text. While older (covering Java 8), it's praised for its clear explanations of core language concepts.
 
 ### ➝ For Intermediate Developers
