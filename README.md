@@ -185,11 +185,11 @@ These books tackle complex topics like concurrency, performance, and application
 
 Focus on applying Java to a specific professional domain, particularly with the Spring Framework.
 
-- [**Spring in Action**](PDF_LINK) (*6th Edition*)
+- [**Spring in Action**](https://drive.google.com/file/d/1e-gRL-z2JlTRmSJ4c17mgTUFgurl_cqe/view?usp=drive_link) (*6th Edition*)
     - The go-to, hands-on guide for learning the Spring Framework, which is the dominant ecosystem for building enterprise Java applications.
-- [**High-Performance Java Persistence**](PDF_LINK) (* 2017 Edition*)
+- [**High-Performance Java Persistence**](https://drive.google.com/file/d/1XWmZbXC2c7HpSvkp5XZ5Cy6YWUlqQYwM/view?usp=drive_link) (* 2017 Edition*)
     - The definitive guide for understanding and optimizing data access with JPA and Hibernate.
-- [**JUnit in Action**](PDF_LINK) (*3rd Edition*)
+- [**JUnit in Action**](https://drive.google.com/file/d/1Pnv6bQUlfIAK8M2DgfnUlzg2XRHZmesq/view?usp=sharing) (*3rd Edition*)
     - A practical guide to unit testing in Java, covering the JUnit framework in detail with real-world examples.
  
 
