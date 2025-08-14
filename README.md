@@ -171,13 +171,13 @@ Once you understand the syntax, these books will teach you how to write robust, 
 
 These books tackle complex topics like concurrency, performance, and application architecture.
 
-- [**Java Concurrency in Practice**](PDF_LINK) (*1st Edition*)
+- [**Java Concurrency in Practice**](https://drive.google.com/file/d/1JEkaIZsE2iG0ea6-6nk9VGwzG0tHKX0a/view?usp=drive_link) (*1st Edition*)
     - The bible for concurrent programming in Java. Though older, its fundamental concepts remain essential for building safe multi-threaded applications.
-- [**Java Performance: The Definite Guide**](PDF_LINK) (*2nd Edition*)
+- [**Java Performance: The Definite Guide**](https://drive.google.com/file/d/1k2MPlfWezaw7spPbCiCxf1ln8QIbIOXG/view?usp=drive_link) (*2nd Edition*)
     - An O'Reilly book that provides tools and techniques for monitoring, tuning, and improving the performance of your Java applications.
-- [**Modern Java in Action**](PDF_LINK) (*2nd Edition*)
+- [**Modern Java in Action**](https://drive.google.com/file/d/1sO6NWk89jc-_5xXbCwyl7f0qqX2l2p4b/view?usp=drive_link) (*2nd Edition*)
     - A comprehensive guide to the modern features of Java, including lambdas, streams, and reactive programming. 
-- [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](PDF_LINK) (*Latest Edition*)
+- [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://drive.google.com/file/d/1Cvrr4sUFonUDurxl-fL7xkmgN3yiRoNe/view?usp=drive_link) (*Latest Edition*)
     - While not specific to Java, Robert C. Martin's guide on software architecture is essential reading for senior Java developers building maintainable systems.
 
 
