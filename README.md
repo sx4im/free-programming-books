@@ -204,10 +204,73 @@ A massive, detailed guide that is best used as a companion throughout your learn
 - [**Java Pocket Guide**](https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link) (*4th Edition*)
     - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax and APIs on the fly.
 
-### 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C#
-- [C# 9.0 in a Nutshell (Beginner)](PDF_LINK)
-- [C# 8.0 and .NET Core 3.0 (Intermediate)](PDF_LINK)
-- [C# in Depth by Jon Skeet(Advanced)](PDF_LINK)
+---
+
+# 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/> C#
+
+## For Beginners
+
+These books are designed for those with no prior C# experience and provide a solid foundation in the language and the .NET ecosystem.
+
+- [**The C# Player's Guide**](PDF_LINK) (*5th Edition*)
+    - A fun, project-based book that teaches C# by having you complete "quests" and "boss battles." Highly recommended for beginners.
+- [**Head First C#**](PDF_LINK) (*4th Edition*)
+    - O'Reilly's classic visual guide that uses a brain-friendly approach to teach C# and Visual Studio in an engaging way.
+- [**Illustrated C#**](PDF_LINK) (*2022 Edition*)
+    - A beautifully illustrated and concise guide that makes complex C# concepts easy to understand.
+- [**Pro C# 10 with .NET 6**](PDF_LINK) (*11th Edition*)
+    - A massive, comprehensive guide for serious beginners who want an in-depth, professional-level introduction to C# and the .NET platform.
+
+
+## For Intermediate Developers
+
+These books will help you move beyond syntax to truly understand the language's features and write effective, professional code.
+
+- [**C# in Depth**](PDF_LINK) (*4th Edition*)
+    - The definitive, must-own book for every C# developer, written by the legendary Jon Skeet. It explains the "how" and "why" behind C#'s features.
+- [**Effective C#**](PDF_LINK) (*3rd Edition*)
+    - Provides 50 specific, actionable best practices to help you write clearer, more efficient, and robust C# code.
+- [**Concurrency in C# Cookbook**](PDF_LINK) (*2nd Edition*)
+    - An essential guide to modern asynchronous programming in C#, with practical recipes for using `async` and `await` effectively.
+- [**Pro ASP.NET Core 6**](PDF_LINK) (*9th Edition*)
+    - The go-to comprehensive guide for building modern, professional web applications with ASP.NET Core.
+
+
+## For Advanced Programmers
+
+Dive deep into the .NET runtime, software architecture, and advanced programming techniques.
+
+- [**CLR via C#**](PDF_LINK) (*4th Edition*)
+    - The bible for understanding how the .NET Common Language Runtime (CLR) works under the hood. Essential for writing high-performance code.
+- [**Dependency Injection in .NET**](PDF_LINK) (*2nd Edition*)
+    - A practical guide to using Dependency Injection, a critical technique for building maintainable and testable large-scale applications.
+- **[Adaptive Code: Agile coding with design patterns and SOLID principles](PDF_LINK)** (*2nd Edition*)
+    - Focuses on writing flexible and adaptable code using SOLID principles and design patterns in C#.
+- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design](PDF_LINK)** (*1st Edition*)
+    - While not C#-specific, this is essential reading for any senior developer aiming to build robust and scalable systems.
+
+
+## For Specialized Fields
+
+Focus on applying C# to specific professional domains like game development or microservices.
+
+- [**Unity in Action**](PDF_LINK) (*3rd Edition*)
+    - A practical, project-based guide to building games with C# and the Unity engine.
+- [**Pro Microservices in .NET 6**](PDF_LINK) (*1st Edition*)
+    - A comprehensive guide to designing, developing, and deploying microservice-based applications using the .NET stack.
+
+
+## Comprehensive References
+
+These guides are perfect for quick lookups and as detailed companions throughout your career.
+
+- [**C# in a Nutshell**](PDF_LINK) (*10th Edition*)
+    - The definitive O'Reilly reference for C#. It's a massive, comprehensive book covering the language and the .NET libraries in great detail.
+- [**C# 10 Pocket Reference**](PDF_LINK) (*1st Edition*)
+    - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax on the fly.
+- [**C# Language Specification**](PDF_LINK) (*Version 6.0*)
+    - The official language specification from Microsoft. The ultimate source of truth for language lawyers.
+
 
 ### 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++
 - [Programming: Principles and Practice Using C++ (Beginner)](PDF_LINK)
