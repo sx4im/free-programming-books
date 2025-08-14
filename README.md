@@ -256,7 +256,7 @@ Focus on applying C# to specific professional domains like game development or m
 
 - [**Unity in Action**](PDF_LINK) (*3rd Edition*)
     - A practical, project-based guide to building games with C# and the Unity engine.
-- [**Pro Microservices in .NET 6**](PDF_LINK) (*Latest Edition*)
+- [**Pro Microservices in .NET core**](PDF_LINK) (*Latest Edition*)
     - A comprehensive guide to designing, developing, and deploying microservice-based applications using the .NET stack.
 
 
