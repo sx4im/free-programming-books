@@ -240,13 +240,13 @@ These books will help you move beyond syntax to truly understand the language's 
 
 Dive deep into the .NET runtime, software architecture, and advanced programming techniques.
 
-- [**CLR via C#**](PDF_LINK) (*4th Edition*)
+- [**CLR via C#**](https://drive.google.com/file/d/1r-J9sbVlaUI0pSUE7PYB7246ny-AySzg/view?usp=drive_link) (*4th Edition*)
     - The bible for understanding how the .NET Common Language Runtime (CLR) works under the hood. Essential for writing high-performance code.
-- [**Dependency Injection**](PDF_LINK) (*2nd Edition*)
+- [**Dependency Injection**](https://drive.google.com/file/d/1L77S_X12NLTZr3yjcZDtI2jSj8ZUpN_n/view?usp=drive_link) (*2nd Edition*)
     - A practical guide to using Dependency Injection, a critical technique for building maintainable and testable large-scale applications.
-- **[Adaptive Code: Agile coding with design patterns and SOLID principles](PDF_LINK)** (*2nd Edition*)
+- **[Adaptive Code: Agile coding with design patterns and SOLID principles](https://drive.google.com/file/d/1pMo5PKi5E8AtZEngURw8vzjTtDt3KJ8b/view?usp=drive_link)** (*2nd Edition*)
     - Focuses on writing flexible and adaptable code using SOLID principles and design patterns in C#.
-- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design](PDF_LINK)** (*Latest Edition*)
+- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://drive.google.com/file/d/1mlpGfuUPmPq3MDAKaVlpnYoDqDrJs7P4/view?usp=drive_link)** (*Latest Edition*)
     - While not C#-specific, this is essential reading for any senior developer aiming to build robust and scalable systems.
 
 
@@ -254,24 +254,24 @@ Dive deep into the .NET runtime, software architecture, and advanced programming
 
 Focus on applying C# to specific professional domains like game development or microservices.
 
-- [**The Art of Unit Testing**](PDF_LINK) (*3rd Edition*)
+- [**The Art of Unit Testing**](https://drive.google.com/file/d/13Nxds-pL6Fg-Lif-Sd-xZwMJrEXDgk0p/view?usp=drive_link) (*3rd Edition*)
     - A classic guide to the principles and practices of effective unit testing, with all examples in C#.
-- [**Unity in Action**](PDF_LINK) (*2nd Edition*)
+- [**Unity in Action**](https://drive.google.com/file/d/1LMiwpbbyeGVnHcHf37zYzxHgPa8zLvPR/view?usp=drive_link) (*2nd Edition*)
     - A practical, project-based guide to building games with C# and the Unity engine.
-- [**Pro Microservices in .NET core**](PDF_LINK) (*Latest Edition*)
+- [**Microservices in .NET core**](https://drive.google.com/file/d/1rc8RcdBMoNa-xcfzEVACzPL5FBAEUAp4/view?usp=drive_link) (*Latest Edition*)
     - A comprehensive guide to designing, developing, and deploying microservice-based applications using the .NET stack.
 
 
 ## Comprehensive References
 
 These guides are perfect for quick lookups and as detailed companions throughout your career.
-- [**Functional Programming in C#**](PDF_LINK) (*2024 Edition*)
+- [**Functional Programming in C#**](https://drive.google.com/file/d/1o-BwSGn2l8tXFiRYOoCGxHGS263pItm3/view?usp=drive_link) (*2024 Edition*)
     - The definitive guide to thinking and writing in a functional style, leveraging C#'s powerful language features like LINQ and delegates.
-- [**Programming C# 10**](PDF_LINK) (*Latest Edition*)
+- [**Programming C# 10**](https://drive.google.com/file/d/1xFtpxch9KCXJmcO5GYsVpt5SFZpfCAEE/view?usp=drive_link) (*Latest Edition*)
     - O'Reilly's in-depth tutorial and reference that provides a complete overview of the C# language and the .NET Core runtime.
-- [**C# 10 in a Nutshell**](PDF_LINK) (*2022 Edition*)
+- [**C# 10 in a Nutshell**](https://drive.google.com/file/d/1pBYpV_Zq2TMYkZGY5t7wSThNpQMfxgF-/view?usp=drive_link) (*2022 Edition*)
     - The definitive O'Reilly reference for C#. It's a massive, comprehensive book covering the language and the .NET libraries in great detail.
-- [**C# 10 Pocket Reference**](PDF_LINK) 
+- [**C# 10 Pocket Reference**](https://drive.google.com/file/d/1huaDdAj_-qDJkx15WT1XQvgai9OsZuhz/view?usp=drive_link) 
     - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax on the fly.
       
 ---
