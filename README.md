@@ -216,7 +216,7 @@ These books are designed for those with no prior C# experience and provide a sol
     - A fun, project-based book that teaches C# by having you complete "quests" and "boss battles." Highly recommended for beginners.
 - [**Head First C#**](PDF_LINK) (*4th Edition*)
     - O'Reilly's classic visual guide that uses a brain-friendly approach to teach C# and Visual Studio in an engaging way.
-- [**Illustrated C#**](PDF_LINK) (*2022 Edition*)
+- [**Illustrated C#**](PDF_LINK) (*5th Edition*)
     - A beautifully illustrated and concise guide that makes complex C# concepts easy to understand.
 - [**Pro C# 10 with .NET 6**](PDF_LINK) (*11th Edition*)
     - A massive, comprehensive guide for serious beginners who want an in-depth, professional-level introduction to C# and the .NET platform.
