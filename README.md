@@ -265,9 +265,9 @@ Focus on applying C# to specific professional domains like game development or m
 These guides are perfect for quick lookups and as detailed companions throughout your career.
 - [**Programming C# 10**](PDF_LINK) (*Latest Edition*)
     - O'Reilly's in-depth tutorial and reference that provides a complete overview of the C# language and the .NET Core runtime.
-- [**C# 10 in a Nutshell**](PDF_LINK) (*Latest Edition*)
+- [**C# 10 in a Nutshell**](PDF_LINK) (*2022 Edition*)
     - The definitive O'Reilly reference for C#. It's a massive, comprehensive book covering the language and the .NET libraries in great detail.
-- [**C# 10 Pocket Reference**](PDF_LINK) (*1st Edition*)
+- [**C# 10 Pocket Reference**](PDF_LINK) 
     - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax on the fly.
 - [**C# Language Specification**](PDF_LINK) (*Version 6.0*)
     - The official language specification from Microsoft. The ultimate source of truth for language lawyers.
