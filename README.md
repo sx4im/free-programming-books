@@ -197,11 +197,11 @@ Focus on applying Java to a specific professional domain, particularly with the 
 
 A massive, detailed guide that is best used as a companion throughout your learning journey.
 
-- [**Java: The Complete Reference**](PDF_LINK) (*12th Edition*)
+- [**Java: The Complete Reference**](https://drive.google.com/file/d/1AjGw7Rf75D3KS7LUfqYCTurPcdu2U5sK/view?usp=drive_link) (*12th Edition*)
     - An exhaustive, 1000+ page reference by Herbert Schildt that covers the entire Java language and its core libraries.
-- [**Java in a Nutshell**](PDF_LINK) (*7th Edition*)
+- [**Java in a Nutshell**](https://drive.google.com/file/d/1QKcp6dEFbpv0QmNZDJ0ozrZrpjjUpyis/view?usp=drive_link) (*7th Edition*)
     - A classic, concise O'Reilly reference for experienced programmers who need a quick lookup of language features and APIs.
-- [**Java Pocket Guide**](PDF_LINK) (*4th Edition*)
+- [**Java Pocket Guide**](https://drive.google.com/file/d/11F1OMndhAHvHTLXDd2HbU4KvLk2JZtWt/view?usp=drive_link) (*4th Edition*)
     - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax and APIs on the fly.
 
 ### 4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C#
