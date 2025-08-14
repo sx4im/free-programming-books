@@ -18,7 +18,7 @@
 
 # 1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python
 
-### ➝ For Beginners
+##  For Beginners
 
 These books are perfect if you are new to programming or new to Python. They require no previous experience.
 
@@ -32,7 +32,7 @@ These books are perfect if you are new to programming or new to Python. They req
     - A visually rich book that uses a brain-friendly approach to make learning Python fun and effective.
 
 
-### ➝ For Intermediate Developers
+##  For Intermediate Developers
 
 Once you know the basics, these books will help you write more effective, idiomatic, and professional code.
 
@@ -44,7 +44,7 @@ Once you know the basics, these books will help you write more effective, idioma
     - A concise and practical guide from a renowned Python expert, focusing on the essential skills for building real-world software.
 
 
-### ➝ For Advanced Programmers
+## For Advanced Programmers
 
 Dive deep into Python's features, concurrency, and learn to design robust, large-scale applications.
 
@@ -56,7 +56,7 @@ Dive deep into Python's features, concurrency, and learn to design robust, large
     - Focuses on the practical aspects of building and deploying production-ready Python applications.
 
 
-### ➝ For Specialized Fields
+## For Specialized Fields
 
 Focus on applying Python to a specific professional domain like Data Science, Machine Learning, or Web Development.
 
@@ -68,7 +68,7 @@ Focus on applying Python to a specific professional domain like Data Science, Ma
     - An O'Reilly book that provides a comprehensive introduction to building web applications with Flask.
 
 
-### ➝ Comprehensive References
+## Comprehensive References
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
@@ -81,7 +81,7 @@ These massive, detailed guides are best used as companions throughout your learn
 
 # 2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript
 
-### ➝ For Beginners
+## For Beginners
 
 These books are perfect for those new to programming or just starting with JavaScript.
 
@@ -93,7 +93,7 @@ These books are perfect for those new to programming or just starting with JavaS
     - Uses a brain-friendly, visual approach to teach the core concepts of the language in a way that sticks.
 
 
-### ➝ For Intermediate Developers
+## For Intermediate Developers
 
 These books will help you move beyond the basics to understand the core mechanics and write more effective code.
 
@@ -105,7 +105,7 @@ These books will help you move beyond the basics to understand the core mechanic
     - Provides specific, actionable advice and best practices for writing solid, professional JavaScript code.
 
 
-### ➝ For Advanced Programmers
+## For Advanced Programmers
 
 Explore advanced patterns, application architecture, and the functional side of the language.
 
@@ -117,7 +117,7 @@ Explore advanced patterns, application architecture, and the functional side of 
     - A fun and accessible introduction to functional programming concepts using JavaScript. Available for free online.
 
 
-### ➝ For Specialized Fields
+## For Specialized Fields
 
 Focus on applying JavaScript to a specific domain, particularly popular front-end frameworks.
 
@@ -127,7 +127,7 @@ Focus on applying JavaScript to a specific domain, particularly popular front-en
     - A comprehensive guide that covers everything you need to know to build professional applications with Vue.js.
 
 
-### ➝ Comprehensive References
+## Comprehensive References
 
 These massive, detailed guides are best used as companions throughout your learning journey.
 
@@ -140,7 +140,7 @@ These massive, detailed guides are best used as companions throughout your learn
 
 # 3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/> Java
 
-### ➝ For Beginners
+## For Beginners
 
 These books are designed for those new to programming or just starting their journey with Java.
 
@@ -153,7 +153,7 @@ These books are designed for those new to programming or just starting their jou
 - [**Learning Java**](https://drive.google.com/file/d/1gwDLRPrdqbTp5mrUUdFWiUJFdjQnBPBa/view?usp=drive_link) (*5th Edition*)
     - A classic O'Reilly foundational text. While older (covering Java 8), it's praised for its clear explanations of core language concepts.
 
-### ➝ For Intermediate Developers
+## For Intermediate Developers
 
 Once you understand the syntax, these books will teach you how to write robust, professional, and effective Java code.
 
@@ -167,7 +167,7 @@ Once you understand the syntax, these books will teach you how to write robust, 
     - Focuses on modern Java features (Java 11+), including modules, new concurrency models, and best practices for contemporary development.
 
 
-### ➝ For Advanced Programmers
+## For Advanced Programmers
 
 These books tackle complex topics like concurrency, performance, and application architecture.
 
@@ -181,7 +181,7 @@ These books tackle complex topics like concurrency, performance, and application
     - While not specific to Java, Robert C. Martin's guide on software architecture is essential reading for senior Java developers building maintainable systems.
 
 
-### ➝ For Specialized Fields
+## For Specialized Fields
 
 Focus on applying Java to a specific professional domain, particularly with the Spring Framework.
 
@@ -193,7 +193,7 @@ Focus on applying Java to a specific professional domain, particularly with the 
     - A practical guide to unit testing in Java, covering the JUnit framework in detail with real-world examples.
  
 
-### ➝ Comprehensive References
+## Comprehensive References
 
 A massive, detailed guide that is best used as a companion throughout your learning journey.
 
