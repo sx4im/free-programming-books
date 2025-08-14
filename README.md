@@ -254,6 +254,8 @@ Dive deep into the .NET runtime, software architecture, and advanced programming
 
 Focus on applying C# to specific professional domains like game development or microservices.
 
+- [**The Art of Unit Testing**](PDF_LINK) (*3rd Edition*)
+    - A classic guide to the principles and practices of effective unit testing, with all examples in C#.
 - [**Unity in Action**](PDF_LINK) (*2nd Edition*)
     - A practical, project-based guide to building games with C# and the Unity engine.
 - [**Pro Microservices in .NET core**](PDF_LINK) (*Latest Edition*)
@@ -263,14 +265,14 @@ Focus on applying C# to specific professional domains like game development or m
 ## Comprehensive References
 
 These guides are perfect for quick lookups and as detailed companions throughout your career.
+- [**Functional Programming in C#**](PDF_LINK) (*2024 Edition*)
+    - The definitive guide to thinking and writing in a functional style, leveraging C#'s powerful language features like LINQ and delegates.
 - [**Programming C# 10**](PDF_LINK) (*Latest Edition*)
     - O'Reilly's in-depth tutorial and reference that provides a complete overview of the C# language and the .NET Core runtime.
 - [**C# 10 in a Nutshell**](PDF_LINK) (*2022 Edition*)
     - The definitive O'Reilly reference for C#. It's a massive, comprehensive book covering the language and the .NET libraries in great detail.
 - [**C# 10 Pocket Reference**](PDF_LINK) 
     - The most concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax on the fly.
-- [**C# Language Specification**](PDF_LINK) (*Version 6.0*)
-    - The official language specification from Microsoft. The ultimate source of truth for language lawyers.
 
 
 ### 5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++
