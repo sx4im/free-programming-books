@@ -284,28 +284,32 @@ These books are for those new to C++ and provide a solid, comprehensive foundati
 
 - [**C++ Primer**](PDF_LINK) (*5th Edition*)
     - The definitive and most authoritative tutorial for beginners. It's a massive, in-depth guide that teaches modern C++ from first principles.
+- [**Programming: Principles and Practice Using C++**](PDF_LINK) (*2nd Edition*)
+    - Written by Bjarne Stroustrup, this book is for absolute beginners, teaching both fundamental programming principles and modern C++.
 - [**A Tour of C++**](PDF_LINK) (*3rd Edition*)
     - A concise and quick tour of modern C++ by the language's creator, Bjarne Stroustrup. Perfect for experienced programmers new to C++.
-- [**Accelerated C++: Practical Programming by Example**](PDF_LINK) (*1st Edition*)
+- [**Accelerated C++: Practical Programming by Example**](PDF_LINK) 
     - A classic book known for its fast-paced, modern approach that introduces standard library features early on.
-- [**Starting Out with C++: From Control Structures through Objects**](PDF_LINK) (*10th Edition*)
+- [**Starting Out with C++: From Control Structures through Objects**](PDF_LINK) (*9th Edition*)
     - A popular, traditional textbook that is very accessible to absolute beginners and often used in university courses.
+- [**C++ for Dummies**](PDF_LINK) (*5th Edition*)
+    - A practical guide that teaches C++ concepts through a series of clear, real-world examples.
 
 
 ## For Intermediate Developers
 
 These books are essential for moving beyond the basics and learning to write effective, modern, and idiomatic C++ code.
 
-- [**Effective Modern C++**](PDF_LINK) (*1st Edition*)
+- [**Effective Modern C++**](PDF_LINK) 
     - Scott Meyers' must-have guide to writing effective C++11 and C++14. This is considered essential reading for every C++ developer.
 - [**The C++ Programming Language**](PDF_LINK) (*4th Edition*)
     - The definitive reference on the C++ language, its principles, and its standard library, written by the creator, Bjarne Stroustrup.
 - [**C++ Crash Course**](PDF_LINK) (*1st Edition*)
     - A fast-paced, project-based guide from O'Reilly for modern C++. It's for those who want a quick but thorough tour of the language.
+- [**100 C++ Mistakes and How to Avoid Them**](PDF_LINK) (*2025 Edition*)
+    - A practical book that highlights common C++ pitfalls and teaches you how to write cleaner, more correct code.
 - [**Effective C++**](PDF_LINK) (*3rd Edition*)
     - Even though it covers older C++ standards, Scott Meyers' original 55 items are fundamental principles that are still highly relevant.
-- [**More Effective C++**](PDF_LINK) (*1st Edition*)
-    - The follow-up to "Effective C++," providing more expert advice on design and implementation that has stood the test of time.
 
 
 ## For Advanced Programmers
@@ -316,16 +320,19 @@ Dive deep into the most complex and powerful features of C++, such as concurrenc
     - The definitive bible for mastering multithreading and concurrency in modern C++.
 - [**C++ Templates: The Complete Guide**](PDF_LINK) (*2nd Edition*)
     - The authoritative and exhaustive guide to template metaprogramming in C++.
-- [**Large-Scale C++ Software Design**](PDF_LINK) (*1st Edition*)
-    - A classic book by John Lakos on the principles and practices of building large, maintainable, and scalable C++ systems.
-- [**Expert C++**](PDF_LINK) (*1st Edition*)
+- [**Expert C++ Programming**](PDF_LINK) 
     - A modern book that covers advanced topics like memory management, optimization, and the latest C++20 features.
+- [**Hands-On Design Patterns with C++**](PDF_LINK) (*2nd Edition*)
+    - A modern, practical guide to implementing classic and contemporary software design patterns in C++.
+
 
 
 ## For Specialized Fields
 
-Focus on applying C++ to a specific professional domain, such as game development, GUI applications, or mastering the standard library.
+Focus on applying C++ to a specific professional domain, such as machine learning, game development, or GUI applications.
 
+- [**Hands-On Machine Learning with C++**](PDF_LINK) 
+    - Build, train, and deploy machine learning models from scratch using C++ libraries like dlib, mlpack, and Shark-ML.
 - [**Beginning C++ Game Programming**](PDF_LINK) (*2nd Edition*)
     - A practical, hands-on guide to the fundamentals of game development using C++ and the popular SFML library.
 - [**Hands-On GUI Programming with C++ and Qt5**](PDF_LINK) (*1st Edition*)
@@ -342,6 +349,8 @@ These guides are perfect for quick lookups and as detailed companions throughout
     - The definitive reference for the entire C++ Standard Library, written by Nicolai M. Josuttis.
 - [**C++ Pocket Reference**](PDF_LINK) (*1st Edition*)
     - The concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax and library functions on the fly.
+
+
 
 
 ### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20"/> Go
