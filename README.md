@@ -242,7 +242,7 @@ Dive deep into the .NET runtime, software architecture, and advanced programming
 
 - [**CLR via C#**](PDF_LINK) (*4th Edition*)
     - The bible for understanding how the .NET Common Language Runtime (CLR) works under the hood. Essential for writing high-performance code.
-- [**Dependency Injection in .NET**](PDF_LINK) (*2nd Edition*)
+- [**Dependency Injection**](PDF_LINK) (*2nd Edition*)
     - A practical guide to using Dependency Injection, a critical technique for building maintainable and testable large-scale applications.
 - **[Adaptive Code: Agile coding with design patterns and SOLID principles](PDF_LINK)** (*2nd Edition*)
     - Focuses on writing flexible and adaptable code using SOLID principles and design patterns in C#.
