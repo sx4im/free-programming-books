@@ -331,7 +331,7 @@ Dive deep into the most complex and powerful features of C++, such as concurrenc
 
 Focus on applying C++ to a specific professional domain, such as machine learning, game development, or GUI applications.
 
-- [**Hands-On Machine Learning with C++**](PDF_LINK) 
+- [**Hands-On Machine Learning with C++**](https://drive.google.com/file/d/1K-iQpqmFMkYZykytjQfoe1Ha9qwbftEL/view?usp=drive_link) 
     - Build, train, and deploy machine learning models from scratch using C++ libraries like dlib, mlpack, and Shark-ML.
 - [**Beginning C++ Game Programming**](PDF_LINK) (*2nd Edition*)
     - A practical, hands-on guide to the fundamentals of game development using C++ and the popular SFML library.
