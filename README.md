@@ -302,7 +302,7 @@ These books are essential for moving beyond the basics and learning to write eff
 
 - [**Effective Modern C++**](https://drive.google.com/file/d/1UzUiCCgxct9YILYzv3nsf9VeMAb3esVQ/view?usp=drive_link) 
     - Scott Meyers' must-have guide to writing effective C++11 and C++14. This is considered essential reading for every C++ developer.
-- [**The C++ Programming Language**](PDF_LINK) (*4th Edition*)
+- [**The C++ Programming Language**](https://drive.google.com/file/d/1-xjwSQI9zqn8ffkfVQs4eSgN74RRLXPc/view?usp=drive_link) (*4th Edition*)
     - The definitive reference on the C++ language, its principles, and its standard library, written by the creator, Bjarne Stroustrup.
 - [**C++ Crash Course**](PDF_LINK) (*1st Edition*)
     - A fast-paced, project-based guide from O'Reilly for modern C++. It's for those who want a quick but thorough tour of the language.
