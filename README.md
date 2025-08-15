@@ -300,7 +300,7 @@ These books are for those new to C++ and provide a solid, comprehensive foundati
 
 These books are essential for moving beyond the basics and learning to write effective, modern, and idiomatic C++ code.
 
-- [**Effective Modern C++**](PDF_LINK) 
+- [**Effective Modern C++**](https://drive.google.com/file/d/1UzUiCCgxct9YILYzv3nsf9VeMAb3esVQ/view?usp=drive_link) 
     - Scott Meyers' must-have guide to writing effective C++11 and C++14. This is considered essential reading for every C++ developer.
 - [**The C++ Programming Language**](PDF_LINK) (*4th Edition*)
     - The definitive reference on the C++ language, its principles, and its standard library, written by the creator, Bjarne Stroustrup.
