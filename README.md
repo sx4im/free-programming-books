@@ -318,11 +318,11 @@ Dive deep into the most complex and powerful features of C++, such as concurrenc
 
 - [**C++ Concurrency in Action**](https://drive.google.com/file/d/1K-iQpqmFMkYZykytjQfoe1Ha9qwbftEL/view?usp=drive_link) (*2nd Edition*)
     - The definitive bible for mastering multithreading and concurrency in modern C++.
-- [**C++ Templates: The Complete Guide**](PDF_LINK) (*2nd Edition*)
+- [**C++ Templates: The Complete Guide**](https://drive.google.com/file/d/1oStqlWCvpPby0BGhDXe4csJ610GDMTsT/view?usp=drive_link) (*2nd Edition*)
     - The authoritative and exhaustive guide to template metaprogramming in C++.
-- [**Expert C++ Programming**](PDF_LINK) 
+- [**Expert C++ Programming**](https://drive.google.com/file/d/158N5zEbqhUg8i7GRcpJjMslNtXgxY0KB/view?usp=drive_link) 
     - A modern book that covers advanced topics like memory management, optimization, and the latest C++20 features.
-- [**Hands-On Design Patterns with C++**](PDF_LINK) (*2nd Edition*)
+- [**Hands-On Design Patterns with C++**](https://drive.google.com/file/d/1y7cZf8IsRCmhoOBVm8PkXgy33P6wJ9m3/view?usp=drive_link) (*2nd Edition*)
     - A modern, practical guide to implementing classic and contemporary software design patterns in C++.
 
 
