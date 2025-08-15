@@ -331,13 +331,13 @@ Dive deep into the most complex and powerful features of C++, such as concurrenc
 
 Focus on applying C++ to a specific professional domain, such as machine learning, game development, or GUI applications.
 
-- [**Hands-On Machine Learning with C++**]() 
+- [**Hands-On Machine Learning with C++**](https://drive.google.com/file/d/1G2Uvpi9hNrNeazzMLW6nkJLHeW3ADsiI/view?usp=drive_link) 
     - Build, train, and deploy machine learning models from scratch using C++ libraries like dlib, mlpack, and Shark-ML.
-- [**Beginning C++ Game Programming**](PDF_LINK) (*2nd Edition*)
+- [**Beginning C++ Game Programming**](https://drive.google.com/file/d/1RHB_5HAdC_Cp-0xUCKpLuuaQpRVOWvu8/view?usp=drive_link) (*2nd Edition*)
     - A practical, hands-on guide to the fundamentals of game development using C++ and the popular SFML library.
-- [**Hands-On GUI Programming with C++ and Qt5**](PDF_LINK) (*1st Edition*)
+- [**Hands-On GUI Programming with C++ and Qt5**](https://drive.google.com/file/d/1pwegPypib9vd_NcEOjafVUNiBp3qxDbP/view?usp=drive_link) (*1st Edition*)
     - A practical, project-based guide to building cross-platform graphical applications with the popular Qt framework.
-- [**Mastering the C++17 STL**](PDF_LINK) (*1st Edition*)
+- [**Mastering the C++17 STL**](https://drive.google.com/file/d/17pfQwqGjbqfPvtb8M0jrmyIdDq24rxIV/view?usp=drive_link) (*1st Edition*)
     - A deep dive into the C++17 Standard Template Library, showing you how to leverage its containers, algorithms, and utilities effectively.
 
 
