@@ -350,13 +350,78 @@ These guides are perfect for quick lookups and as detailed companions throughout
 - [**C++ Pocket Reference**](PDF_LINK) (*1st Edition*)
     - The concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax and library functions on the fly.
 
+---
 
 
+### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
 
-### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20"/> Go
-- [The Go Programming Language (Beginner)](PDF_LINK)
-- [Go in Action (Intermediate)](PDF_LINK)
-- [Concurrency in Go (Advanced)](PDF_LINK)
+## For Beginners
+
+These books are perfect for newcomers to Go, whether you are a new programmer or coming from another language.
+
+- [**The Go Programming Language**](PDF_LINK) (*1st Edition*)
+    - The definitive book on Go, co-authored by a member of the original Go team. It's the "K&R" of Go—authoritative, clear, and essential.
+- [**Learning Go**](PDF_LINK) (*2nd Edition*)
+    - An excellent, modern O'Reilly introduction to the language that focuses on writing idiomatic, production-quality Go from the start.
+- [**Head First Go**](PDF_LINK) (*1st Edition*)
+    - O'Reilly's classic visual and brain-friendly approach to learning. It makes Go's concepts, including concurrency, easy to understand.
+- [**Get Programming with Go**](PDF_LINK) (*1st Edition*)
+    - A very approachable, hands-on guide that teaches Go through a series of engaging projects and examples.
+
+
+## For Intermediate Developers
+
+These books will help you master Go's most powerful features and understand how to build professional applications.
+
+- [**Go in Action**](PDF_LINK) (*1st Edition*)
+    - A famous and highly-regarded guide that provides a deep understanding of Go's type system and its approach to concurrency.
+- [**Concurrency in Go**](PDF_LINK) (*1st Edition*)
+    - The definitive O'Reilly guide to Go's most famous feature. It teaches you how to build highly concurrent and parallel software.
+- [**Mastering Go**](PDF_LINK) (*3rd Edition*)
+    - A comprehensive guide that bridges the gap from intermediate to advanced, covering topics like performance, modules, and Go internals.
+- [**Go Cookbook**](PDF_LINK) (*1st Edition*)
+    - An O'Reilly book packed with practical recipes for solving common problems, from data manipulation to network programming.
+- [**Go in Practice**](PDF_LINK) (*1st Edition*)
+    - A collection of practical techniques and patterns that you can apply directly to your production Go projects.
+
+
+## For Advanced Programmers
+
+Dive deep into systems design, cloud-native development, and advanced Go features.
+
+- [**Designing Data-Intensive Applications**](PDF_LINK) (*1st Edition*)
+    - While not Go-specific, this O'Reilly book is essential reading for any Go developer building complex backend systems.
+- [**Cloud Native Go**](PDF_LINK) (*1st Edition*)
+    - An O'Reilly guide to building and deploying scalable services in the cloud, covering topics like Docker, gRPC, and Kubernetes.
+- [**Network Programming with Go**](PDF_LINK) (*1st Edition*)
+    - A practical guide to building networked applications, from TCP/IP servers to HTTP clients and more.
+- [**100 Go Mistakes and How to Avoid Them**](PDF_LINK) (*1st Edition*)
+    - A practical book that highlights common Go pitfalls and teaches you how to write cleaner and more idiomatic code.
+
+
+## For Specialized Fields
+
+Focus on applying Go to a specific professional domain, such as web development or security.
+
+- [**Let's Go**](PDF_LINK) (*1st Edition*)
+    - The definitive, hands-on guide to building professional web applications in Go.
+- [**Let's Go Further**](PDF_LINK) (*1st Edition*)
+    - The follow-up to "Let's Go," this book covers advanced topics like APIs, background workers, and vulnerability management.
+- [**Black Hat Go**](PDF_LINK) (*1st Edition*)
+    - Explores the powerful security and networking capabilities of Go for penetration testing and building security tools.
+- [**Writing An Interpreter In Go**](PDF_LINK) (*1st Edition*)
+    - A fantastic book that teaches you how an interpreter works by guiding you through building one from scratch in Go.
+
+
+## Comprehensive References
+
+The official documentation is paramount, but these books provide excellent reference material.
+
+- [**Official Go Documentation**](https://go.dev/doc/)
+    - The official website is the ultimate source of truth, with excellent tutorials, reference materials, and the full standard library documentation.
+- [**Go: The Standard Library**](PDF_LINK) (*1st Edition*)
+    - A concise O'Reilly reference focused specifically on the powerful standard library that is a core part of Go development.
+
 
 ### 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" /> Rust
 - [The Rust Programming Language (Beginner)](PDF_LINK)
