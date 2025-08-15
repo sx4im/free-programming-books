@@ -282,17 +282,17 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 These books are for those new to C++ and provide a solid, comprehensive foundation in the language.
 
-- [**C++ Primer**](PDF_LINK) (*5th Edition*)
+- [**C++ Primer**](https://drive.google.com/file/d/12jdDj0WcFLwnSkSGy1y9eAkcF81UwKqg/view?usp=sharing) (*5th Edition*)
     - The definitive and most authoritative tutorial for beginners. It's a massive, in-depth guide that teaches modern C++ from first principles.
-- [**Programming: Principles and Practice Using C++**](PDF_LINK) (*2nd Edition*)
+- [**Programming: Principles and Practice Using C++**](https://drive.google.com/file/d/1zxnraVqHaha9O_SqvJFOomhYXpCOWsnZ/view?usp=drive_link) (*2nd Edition*)
     - Written by Bjarne Stroustrup, this book is for absolute beginners, teaching both fundamental programming principles and modern C++.
-- [**A Tour of C++**](PDF_LINK) (*3rd Edition*)
+- [**A Tour of C++**](https://drive.google.com/file/d/1LAppZ_ax6b9Ia32VgKanCHfeN85zAlPd/view?usp=drive_link) (*3rd Edition*)
     - A concise and quick tour of modern C++ by the language's creator, Bjarne Stroustrup. Perfect for experienced programmers new to C++.
-- [**Accelerated C++: Practical Programming by Example**](PDF_LINK) 
+- [**Accelerated C++: Practical Programming by Example**](https://drive.google.com/file/d/19YC2rORanRY5HRAzW-VIgYnjFqiz3TX1/view?usp=drive_link) 
     - A classic book known for its fast-paced, modern approach that introduces standard library features early on.
-- [**Starting Out with C++: From Control Structures through Objects**](PDF_LINK) (*9th Edition*)
+- [**Starting Out with C++: From Control Structures through Objects**](https://drive.google.com/file/d/1BFj1zJckgRuj2BfBqONFt3mLAVkW5rBQ/view?usp=drive_link) (*9th Edition*)
     - A popular, traditional textbook that is very accessible to absolute beginners and often used in university courses.
-- [**C++ for Dummies**](PDF_LINK) (*5th Edition*)
+- [**C++ for Dummies**](https://drive.google.com/file/d/1df0ymsRtfcyuUZptkqnSwH8NsNP8lIku/view?usp=drive_link) (*5th Edition*)
     - A practical guide that teaches C++ concepts through a series of clear, real-world examples.
 
 
