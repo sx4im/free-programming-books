@@ -353,7 +353,7 @@ These guides are perfect for quick lookups and as detailed companions throughout
 ---
 
 
-### 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
+# 6. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/> Go
 
 ## For Beginners
 
