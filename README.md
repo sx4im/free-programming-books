@@ -347,7 +347,7 @@ These guides are perfect for quick lookups and as detailed companions throughout
 
 - [**The C++ Standard Library: A Tutorial and Reference**](https://drive.google.com/file/d/19BD-BOKEZNsqXKtozVzA_dGkZMron0Qx/view?usp=drive_link) (*2nd Edition*)
     - The definitive reference for the entire C++ Standard Library, written by Nicolai M. Josuttis.
-- [**C++ Pocket Reference**](PDF_LINK) (*1st Edition*)
+- [**C++ Pocket Reference**](https://drive.google.com/file/d/1aDURg39oCc1zuME_JZL730IoFGNdyKs4/view?usp=drive_link) (*1st Edition*)
     - The concise O'Reilly quick-reference guide for experienced programmers who need to look up syntax and library functions on the fly.
 
 ---
