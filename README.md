@@ -165,7 +165,8 @@ Once you understand the syntax, these books will teach you how to write robust, 
     - The logical next step after Volume I, this book covers advanced topics like the Streams API, file I/O, networking, and database programming.
 - [**The Well-Grounded Java Developer**](https://drive.google.com/file/d/1pLhjwG9rYLzr3PHwaCREk_Scyrn483-y/view?usp=drive_link) (*2nd Edition*)
     - Focuses on modern Java features (Java 11+), including modules, new concurrency models, and best practices for contemporary development.
-
+- [**100 Java Mistakes and How to Avoid Them**](https://drive.google.com/file/d/1QoNRXcqkdB-Yi9X4ZK0Qsu6H19d0tknq/view?usp=sharing) (*2023 Edition*)
+    - A practical book that highlights common java pitfalls and teaches you how to write cleaner and more idiomatic code.
 
 ## For Advanced Programmers
 
@@ -380,8 +381,8 @@ These books will help you master Go's most powerful features and understand how 
 - [**Mastering Go**](PDF_LINK) (*4th Edition*)
     - A comprehensive guide that bridges the gap from intermediate to advanced, covering topics like performance, modules, and Go internals.
 - [**Go Programming Cookbook**](PDF_LINK) (*2nd Edition*)
-    - An O'Reilly book packed with practical recipes for solving common problems, from data manipulation to network programming.
-- [**Go in Practice**](PDF_LINK) (*1st Edition*)
+    - An PACKT book packed with practical recipes for solving common problems, from data manipulation to network programming.
+- [**Go in Practice**](PDF_LINK) (*2nd Edition*)
     - A collection of practical techniques and patterns that you can apply directly to your production Go projects.
 
 
@@ -391,7 +392,7 @@ Dive deep into systems design, cloud-native development, and advanced Go feature
 
 - [**Designing Data-Intensive Applications**](PDF_LINK) (*1st Edition*)
     - While not Go-specific, this O'Reilly book is essential reading for any Go developer building complex backend systems.
-- [**Cloud Native Go**](PDF_LINK) (*1st Edition*)
+- [**Cloud Native Go**](PDF_LINK) (*2nd Edition*)
     - An O'Reilly guide to building and deploying scalable services in the cloud, covering topics like Docker, gRPC, and Kubernetes.
 - [**Network Programming with Go**](PDF_LINK) (*1st Edition*)
     - A practical guide to building networked applications, from TCP/IP servers to HTTP clients and more.
@@ -403,7 +404,7 @@ Dive deep into systems design, cloud-native development, and advanced Go feature
 
 Focus on applying Go to a specific professional domain, such as web development or security.
 
-- [**Let's Go**](PDF_LINK) (*1st Edition*)
+- [**Let's Go**](PDF_LINK) (*2nd Edition*)
     - The definitive, hands-on guide to building professional web applications in Go.
 - [**Let's Go Further**](PDF_LINK) (*1st Edition*)
     - The follow-up to "Let's Go," this book covers advanced topics like APIs, background workers, and vulnerability management.
@@ -419,8 +420,8 @@ The official documentation is paramount, but these books provide excellent refer
 
 - [**Official Go Documentation**](https://go.dev/doc/)
     - The official website is the ultimate source of truth, with excellent tutorials, reference materials, and the full standard library documentation.
-- [**Go: The Standard Library**](PDF_LINK) (*1st Edition*)
-    - A concise O'Reilly reference focused specifically on the powerful standard library that is a core part of Go development.
+- [**Go Standard Library Cookbook**](PDF_LINK) (*1st Edition*)
+    - A concise Packt reference focused specifically on the powerful standard library that is a core part of Go development.
 
 
 ### 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" /> Rust
