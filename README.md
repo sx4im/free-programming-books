@@ -404,7 +404,7 @@ Dive deep into systems design, cloud-native development, and advanced Go feature
 
 Focus on applying Go to a specific professional domain, such as web development or security.
 
-- [**Let's Go**](PDF_LINK) (*2nd Edition*)
+- [**Let's Go**](https://drive.google.com/file/d/1nwvxTD7SxHUCKKSBJn2HEwsg0f8R7pwP/view?usp=drive_link) (*2nd Edition*)
     - The definitive, hands-on guide to building professional web applications in Go.
 - [**Let's Go Further**](PDF_LINK) (*1st Edition*)
     - The follow-up to "Let's Go," this book covers advanced topics like APIs, background workers, and vulnerability management.
