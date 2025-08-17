@@ -484,6 +484,8 @@ Focus on applying Rust to a specific professional domain, such as web services, 
     - A practical guide to building cross-platform desktop applications with Rust.
 - [**Game Development with Rust**](PDF_LINK) (*1st Edition*)
     - A practical guide to building games in Rust, covering 2D, 3D, and the Bevy game engine.
+- [**Hands-On Data Structures and Algorithms with Rust**](PDF_LINK) (*2nd Edition*)
+    - A practical guide to implementing fundamental data structures and algorithms, helping you write efficient and performant Rust code.
 
 
 ## Comprehensive References
