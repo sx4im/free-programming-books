@@ -480,8 +480,10 @@ Focus on applying Rust to a specific professional domain, such as web services, 
     - The definitive guide to building robust, production-ready backend web services in Rust.
 - [**The Embedded Rust Book**](PDF_LINK) (*Online Resource*)
     - The official, free online book for learning how to use Rust for bare-metal and embedded development.
-- [**GUI Development with Rust and GTK 4**](PDF_LINK) (*1st Edition*)
+- [**GUI Development with Rust and GTK 4**](https://gtk-rs.org/gtk4-rs/stable/latest/book/) (*1st Edition*)
     - A practical guide to building cross-platform desktop applications with Rust.
+- [**Rust Web development**](PDF_LINK) (*2nd Edition*)
+    - A comprehensive guide to building full-stack web applications, covering backend frameworks like Actix and frontend with WebAssembly.
 - [**Game Development with Rust**](PDF_LINK) (*1st Edition*)
     - A practical guide to building games in Rust, covering 2D, 3D, and the Bevy game engine.
 - [**Hands-On Data Structures and Algorithms with Rust**](PDF_LINK) (*2nd Edition*)
