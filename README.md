@@ -392,7 +392,7 @@ Dive deep into systems design, cloud-native development, and advanced Go feature
 
 - [**Designing Data-Intensive Applications**](https://drive.google.com/file/d/19G8U2Yx1XZOnyl-0tcPrSL2yjUXake7J/view?usp=drive_link) (*1st Edition*)
     - While not Go-specific, this O'Reilly book is essential reading for any Go developer building complex backend systems.
-- [**Cloud Native Go**](PDF_LINK) (*2nd Edition*)
+- [**Cloud Native Go**](https://drive.google.com/file/d/171ZeP-RMQRDVT8mdBAzZiNpnB2mXfkzu/view?usp=drive_link) (*2nd Edition*)
     - An O'Reilly guide to building and deploying scalable services in the cloud, covering topics like Docker, gRPC, and Kubernetes.
 - [**Network Programming with Go**](PDF_LINK) (*1st Edition*)
     - A practical guide to building networked applications, from TCP/IP servers to HTTP clients and more.
