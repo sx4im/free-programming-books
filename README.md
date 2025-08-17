@@ -374,7 +374,7 @@ These books are perfect for newcomers to Go, whether you are a new programmer or
 
 These books will help you master Go's most powerful features and understand how to build professional applications.
 
-- [**Go in Action**]() (*1st Edition*)
+- [**Go in Action**](https://drive.google.com/file/d/1J3ZfepWnOw39BpjWlnOXHU7MPFbPd-zi/view?usp=drive_link) (*1st Edition*)
     - A famous and highly-regarded guide that provides a deep understanding of Go's type system and its approach to concurrency.
 - [**Concurrency in Go**](PDF_LINK) (*1st Edition*)
     - The definitive O'Reilly guide to Go's most famous feature. It teaches you how to build highly concurrent and parallel software.
