@@ -460,7 +460,7 @@ These books will help you level up your skills and learn to write truly idiomati
 
 Dive deep into Rust's most powerful and complex features, including concurrency, performance, and unsafe code.
 
-- [**The Rustonomicon**](PDF_LINK) (*Online Resource*)
+- [**The Rustonomicon**](https://doc.rust-lang.org/nomicon/) (*Online Resource*)
     - The official book on advanced and unsafe Rust. This is your guide to the "dark arts" of writing `unsafe` code for when you need to bend the rules.
 - [**Programming WebAssembly with Rust**](PDF_LINK) (*1st Edition*)
     - An O'Reilly guide to a key use case for Rust: building high-performance, browser-native applications with WebAssembly.
