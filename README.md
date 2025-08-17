@@ -366,7 +366,7 @@ These books are perfect for newcomers to Go, whether you are a new programmer or
     - An excellent, modern O'Reilly introduction to the language that focuses on writing idiomatic, production-quality Go from the start.
 - [**Head First Go**](https://drive.google.com/file/d/1xWd4eyqz_7T341W77naEltuDw6rgd3mW/view?usp=drive_link) (*1st Edition*)
     - O'Reilly's classic visual and brain-friendly approach to learning. It makes Go's concepts, including concurrency, easy to understand.
-- [**Get Programming with Go**](PDF_LINK) (*1st Edition*)
+- [**Get Programming with Go**](https://drive.google.com/file/d/1BTvPt7YDQF8XgR-YtU8S5cFTppsWVW0_/view?usp=drive_link) (*1st Edition*)
     - A very approachable, hands-on guide that teaches Go through a series of engaging projects and examples.
 
 
@@ -374,7 +374,7 @@ These books are perfect for newcomers to Go, whether you are a new programmer or
 
 These books will help you master Go's most powerful features and understand how to build professional applications.
 
-- [**Go in Action**](PDF_LINK) (*1st Edition*)
+- [**Go in Action**]() (*1st Edition*)
     - A famous and highly-regarded guide that provides a deep understanding of Go's type system and its approach to concurrency.
 - [**Concurrency in Go**](PDF_LINK) (*1st Edition*)
     - The definitive O'Reilly guide to Go's most famous feature. It teaches you how to build highly concurrent and parallel software.
