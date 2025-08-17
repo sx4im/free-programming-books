@@ -452,7 +452,7 @@ These books will help you level up your skills and learn to write truly idiomati
     - A project-based guide that focuses on systems programming, teaching you how to build a file server, a custom shell, and more.
 - [**Command-Line Rust**](PDF_LINK) (*1st Edition*)
     - An O'Reilly book focused on a common use case: writing fast and correct command-line applications.
-- [**Effective Rust**](PDF_LINK) (*1st Edition*)
+- [**Mastering Rust**](PDF_LINK) (*2nd Edition*)
     - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
 - [**Creative Projects for Rust Programmers**](PDF_LINK) (*1st Edition*)
     - A fun, hands-on book that teaches intermediate concepts by guiding you through building projects like a Raspberry Pi rover and a web-based chat.
