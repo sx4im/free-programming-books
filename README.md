@@ -364,7 +364,7 @@ These books are perfect for newcomers to Go, whether you are a new programmer or
     - The definitive book on Go, co-authored by a member of the original Go team. It's the "K&R" of Go—authoritative, clear, and essential.
 - [**Learning Go**](https://drive.google.com/file/d/1QenR-5Oj8sqk0d89enT9wZZsleLu13Df/view?usp=drive_link) (*2nd Edition*)
     - An excellent, modern O'Reilly introduction to the language that focuses on writing idiomatic, production-quality Go from the start.
-- [**Head First Go**](PDF_LINK) (*1st Edition*)
+- [**Head First Go**](https://drive.google.com/file/d/1xWd4eyqz_7T341W77naEltuDw6rgd3mW/view?usp=drive_link) (*1st Edition*)
     - O'Reilly's classic visual and brain-friendly approach to learning. It makes Go's concepts, including concurrency, easy to understand.
 - [**Get Programming with Go**](PDF_LINK) (*1st Edition*)
     - A very approachable, hands-on guide that teaches Go through a series of engaging projects and examples.
