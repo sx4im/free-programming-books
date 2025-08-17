@@ -378,11 +378,11 @@ These books will help you master Go's most powerful features and understand how 
     - A famous and highly-regarded guide that provides a deep understanding of Go's type system and its approach to concurrency.
 - [**Concurrency in Go**](https://drive.google.com/file/d/1rdB_l3_Jm-SPHenMKF0KLCTd8SQ4GUwj/view?usp=drive_link) (*1st Edition*)
     - The definitive O'Reilly guide to Go's most famous feature. It teaches you how to build highly concurrent and parallel software.
-- [**Mastering Go**](PDF_LINK) (*4th Edition*)
+- [**Mastering Go**](https://drive.google.com/file/d/1J4QcnUrF7LVIeeGtQlUGM5wXrgmEcDC3/view?usp=drive_link) (*4th Edition*)
     - A comprehensive guide that bridges the gap from intermediate to advanced, covering topics like performance, modules, and Go internals.
-- [**Go Programming Cookbook**](PDF_LINK) (*2nd Edition*)
+- [**Go Programming Cookbook**](https://drive.google.com/file/d/1HFnAUXW-_NkIou9evJUh3HX7JAt_t4He/view?usp=drive_link) (*2nd Edition*)
     - An PACKT book packed with practical recipes for solving common problems, from data manipulation to network programming.
-- [**Go in Practice**](PDF_LINK) (*2nd Edition*)
+- [**Go in Practice**](https://drive.google.com/file/d/1dwQ8BZIHzAJsOpmCowBRNhFDju1RFh8O/view?usp=drive_link) (*2nd Edition*)
     - A collection of practical techniques and patterns that you can apply directly to your production Go projects.
 
 
