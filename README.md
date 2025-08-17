@@ -420,7 +420,7 @@ The official documentation is paramount, but these books provide excellent refer
 
 - [**Official Go Documentation**](https://go.dev/doc/)
     - The official website is the ultimate source of truth, with excellent tutorials, reference materials, and the full standard library documentation.
-- [**Go Standard Library Cookbook**](PDF_LINK) (*1st Edition*)
+- [**Go Standard Library Cookbook**](https://drive.google.com/file/d/1_VBBGh5PhrSdmYemSOxk7sfOtUOHTeAa/view?usp=drive_link) (*1st Edition*)
     - A concise Packt reference focused specifically on the powerful standard library that is a core part of Go development.
 
 
