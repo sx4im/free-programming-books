@@ -422,12 +422,81 @@ The official documentation is paramount, but these books provide excellent refer
     - The official website is the ultimate source of truth, with excellent tutorials, reference materials, and the full standard library documentation.
 - [**Go Standard Library Cookbook**](https://drive.google.com/file/d/1_VBBGh5PhrSdmYemSOxk7sfOtUOHTeAa/view?usp=drive_link) (*1st Edition*)
     - A concise Packt reference focused specifically on the powerful standard library that is a core part of Go development.
+  
+---
 
 
-### 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="20" /> Rust
-- [The Rust Programming Language (Beginner)](PDF_LINK)
-- [Programming Rust (Intermediate)](PDF_LINK)
-- [Rust in Action (Advanced)](PDF_LINK)
+# 7.<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" /> Rust
+
+## For Beginners
+
+These books are for newcomers to Rust and provide a solid foundation in its unique concepts of ownership and borrowing.
+
+- [**The Rust Programming Language**](PDF_LINK) (*2nd Edition*)
+    - The official, definitive book on Rust, affectionately known as "the book" or "TRPL." It's the absolute best place to start. Available for free online.
+- [**Programming Rust**](PDF_LINK) (*2nd Edition*)
+    - The other major O'Reilly guide to Rust. It's a massive, comprehensive book that provides a different perspective and is an excellent companion to TRPL.
+- [**Rust by Example**](PDF_LINK) (*Online Resource*)
+    - An official collection of runnable examples that illustrate various Rust concepts and its standard library. A great hands-on supplement to other books.
+- [**Beginning Rust**](PDF_LINK) (*2nd Edition*)
+    - A gentle, project-based introduction to the language that builds your knowledge from the ground up.
+
+
+## For Intermediate Developers
+
+These books will help you level up your skills and learn to write truly idiomatic and effective Rust code.
+
+- [**Rust for Rustaceans**](PDF_LINK) (*1st Edition*)
+    - The definitive "second book" for Rust developers, from O'Reilly. It teaches you how to think like an experienced Rust programmer. Essential reading.
+- [**Rust in Action**](PDF_LINK) (*1st Edition*)
+    - A project-based guide that focuses on systems programming, teaching you how to build a file server, a custom shell, and more.
+- [**Command-Line Rust**](PDF_LINK) (*1st Edition*)
+    - An O'Reilly book focused on a common use case: writing fast and correct command-line applications.
+- [**Effective Rust**](PDF_LINK) (*1st Edition*)
+    - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
+- [**Creative Projects for Rust Programmers**](PDF_LINK) (*1st Edition*)
+    - A fun, hands-on book that teaches intermediate concepts by guiding you through building projects like a Raspberry Pi rover and a web-based chat.
+
+
+## For Advanced Programmers
+
+Dive deep into Rust's most powerful and complex features, including concurrency, performance, and unsafe code.
+
+- [**The Rustonomicon**](PDF_LINK) (*Online Resource*)
+    - The official book on advanced and unsafe Rust. This is your guide to the "dark arts" of writing `unsafe` code for when you need to bend the rules.
+- [**Programming WebAssembly with Rust**](PDF_LINK) (*1st Edition*)
+    - An O'Reilly guide to a key use case for Rust: building high-performance, browser-native applications with WebAssembly.
+- [**Hands-On Concurrency with Rust**](PDF_LINK) (*1st Edition*)
+    - A practical guide to mastering Rust's fearless concurrency for building highly parallel applications.
+- [**Rust High Performance**](PDF_LINK) (*2nd Edition*)
+    - A focused guide on performance tuning, benchmarking, and writing highly efficient code in Rust.
+- [**Black Hat Rust**](PDF_LINK) (*1st Edition*)
+    - A book focused on using Rust's power for offensive and defensive security programming.
+
+
+## For Specialized Fields
+
+Focus on applying Rust to a specific professional domain, such as web services, embedded systems, or GUI applications.
+
+- [**Zero To Production In Rust**](PDF_LINK) (*1st Edition*)
+    - The definitive guide to building robust, production-ready backend web services in Rust.
+- [**The Embedded Rust Book**](PDF_LINK) (*Online Resource*)
+    - The official, free online book for learning how to use Rust for bare-metal and embedded development.
+- [**GUI Development with Rust and GTK 4**](PDF_LINK) (*1st Edition*)
+    - A practical guide to building cross-platform desktop applications with Rust.
+- [**Game Development with Rust**](PDF_LINK) (*1st Edition*)
+    - A practical guide to building games in Rust, covering 2D, 3D, and the Bevy game engine.
+
+
+## Comprehensive References
+
+These guides are perfect for quick lookups and understanding the Rust ecosystem.
+
+- [**The Cargo Book**](PDF_LINK) (*Online Resource*)
+    - The official guide to Cargo, Rust's build system and package manager. Essential for managing any non-trivial project.
+- [**Rust Pocket Reference**](PDF_LINK) (*1st Edition*)
+    - A concise O'Reilly quick-reference for the Rust language, syntax, and standard library.
+
 
 ### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20"/> PHP
 - [PHP & MySQL: Novice to Ninja (Beginner)](PDF_LINK)
