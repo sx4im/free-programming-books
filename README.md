@@ -410,7 +410,7 @@ Focus on applying Go to a specific professional domain, such as web development 
     - The follow-up to "Let's Go," this book covers advanced topics like APIs, background workers, and vulnerability management.
 - [**Black Hat Go**](https://drive.google.com/file/d/19MikaztAUtBXsn-oCEoxPzO9szsNguqk/view?usp=drive_link) (*1st Edition*)
     - Explores the powerful security and networking capabilities of Go for penetration testing and building security tools.
-- [**Writing An Interpreter In Go**](PDF_LINK) (*1st Edition*)
+- [**Writing An Interpreter In Go**](https://drive.google.com/file/d/1pnoYA-LvaXZWAPkGpgdO6gnfwmSSv-F0/view?usp=drive_link) (*1st Edition*)
     - A fantastic book that teaches you how an interpreter works by guiding you through building one from scratch in Go.
 
 
