@@ -454,8 +454,6 @@ These books will help you level up your skills and learn to write truly idiomati
     - An O'Reilly book focused on a common use case: writing fast and correct command-line applications.
 - [**Mastering Rust**](PDF_LINK) (*2nd Edition*)
     - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
-- [**Creative Projects for Rust Programmers**](PDF_LINK) (*1st Edition*)
-    - A fun, hands-on book that teaches intermediate concepts by guiding you through building projects like a Raspberry Pi rover and a web-based chat.
 
 
 ## For Advanced Programmers
@@ -496,7 +494,8 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
     - The official guide to Cargo, Rust's build system and package manager. Essential for managing any non-trivial project.
 - [**Rust Pocket Reference**](PDF_LINK) (*1st Edition*)
     - A concise O'Reilly quick-reference for the Rust language, syntax, and standard library.
-
+- [**Effective Rust**](https://www.lurklurk.org/effective-rust/) (*1st Edition*)
+    - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
 
 ### 8. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20"/> PHP
 - [PHP & MySQL: Novice to Ninja (Beginner)](PDF_LINK)
