@@ -450,7 +450,7 @@ These books will help you level up your skills and learn to write truly idiomati
     - The definitive "second book" for Rust developers, from O'Reilly. It teaches you how to think like an experienced Rust programmer. Essential reading.
 - [**Rust in Action**](https://drive.google.com/file/d/17cQzEkMvBFKSIbYYGFizYoQ0S1bZ8l4F/view?usp=drive_link) (*1st Edition*)
     - A project-based guide that focuses on systems programming, teaching you how to build a file server, a custom shell, and more.
-- [**Command-Line Rust**](PDF_LINK) (*1st Edition*)
+- [**Command-Line Rust**](https://drive.google.com/file/d/1f4ZOLaIQ8pNTA5gT5bXOXxZhZP5ZDhiL/view?usp=drive_link) (*1st Edition*)
     - An O'Reilly book focused on a common use case: writing fast and correct command-line applications.
 - [**Mastering Rust**](PDF_LINK) (*2nd Edition*)
     - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
