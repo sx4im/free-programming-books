@@ -432,7 +432,7 @@ The official documentation is paramount, but these books provide excellent refer
 
 These books are for newcomers to Rust and provide a solid foundation in its unique concepts of ownership and borrowing.
 
-- [**The Rust Programming Language**](PDF_LINK) (*2nd Edition*)
+- [**The Rust Programming Language**](https://drive.google.com/file/d/1EMwXxNDPLMugxczR1KsSakNTxCDlxFgm/view?usp=drive_link) (*2nd Edition*)
     - The official, definitive book on Rust, affectionately known as "the book" or "TRPL." It's the absolute best place to start. Available for free online.
 - [**Programming Rust**](PDF_LINK) (*2nd Edition*)
     - The other major O'Reilly guide to Rust. It's a massive, comprehensive book that provides a different perspective and is an excellent companion to TRPL.
