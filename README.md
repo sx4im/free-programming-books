@@ -438,7 +438,7 @@ These books are for newcomers to Rust and provide a solid foundation in its uniq
     - The other major O'Reilly guide to Rust. It's a massive, comprehensive book that provides a different perspective and is an excellent companion to TRPL.
 - [**Rust by Example**](https://doc.rust-lang.org/rust-by-example/) (*Online Resource*)
     - An official collection of runnable examples that illustrate various Rust concepts and its standard library. A great hands-on supplement to other books.
-- [**Beginning Rust**](PDF_LINK) (*2nd Edition*)
+- [**Beginning Rust**](https://drive.google.com/file/d/15Smb7lVBLcjdAUDY0oYbV7xuvRPq22E3/view?usp=drive_link) (*2nd Edition*)
     - A gentle, project-based introduction to the language that builds your knowledge from the ground up.
 
 
