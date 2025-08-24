@@ -494,7 +494,7 @@ These guides are perfect for quick lookups and understanding the Rust ecosystem.
 
 - [**The Cargo Book**](https://doc.rust-lang.org/cargo/) (*Online Resource*)
     - The official guide to Cargo, Rust's build system and package manager. Essential for managing any non-trivial project.
-- [**Rust Pocket Reference**](PDF_LINK) (*1st Edition*)
+- [**Idiomatic Rust**](PDF_LINK) (*1st Edition*)
     - A concise O'Reilly quick-reference for the Rust language, syntax, and standard library.
 - [**Effective Rust**](https://www.lurklurk.org/effective-rust/) (*1st Edition*)
     - A new book of actionable advice and best practices for writing better, more maintainable Rust code.
