@@ -492,7 +492,7 @@ Focus on applying Rust to a specific professional domain, such as web services, 
 
 These guides are perfect for quick lookups and understanding the Rust ecosystem.
 
-- [**The Cargo Book**](PDF_LINK) (*Online Resource*)
+- [**The Cargo Book**](https://doc.rust-lang.org/cargo/) (*Online Resource*)
     - The official guide to Cargo, Rust's build system and package manager. Essential for managing any non-trivial project.
 - [**Rust Pocket Reference**](PDF_LINK) (*1st Edition*)
     - A concise O'Reilly quick-reference for the Rust language, syntax, and standard library.
