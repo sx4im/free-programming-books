@@ -446,7 +446,7 @@ These books are for newcomers to Rust and provide a solid foundation in its uniq
 
 These books will help you level up your skills and learn to write truly idiomatic and effective Rust code.
 
-- [**Rust for Rustaceans**](PDF_LINK) (*1st Edition*)
+- [**Rust for Rustaceans**](https://drive.google.com/file/d/1vCglEaaVMujT0Z2_fjry5evTTYcNLEyj/view?usp=drive_link) (*1st Edition*)
     - The definitive "second book" for Rust developers, from O'Reilly. It teaches you how to think like an experienced Rust programmer. Essential reading.
 - [**Rust in Action**](PDF_LINK) (*1st Edition*)
     - A project-based guide that focuses on systems programming, teaching you how to build a file server, a custom shell, and more.
