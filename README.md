@@ -462,7 +462,7 @@ Dive deep into Rust's most powerful and complex features, including concurrency,
 
 - [**The Rustonomicon**](https://doc.rust-lang.org/nomicon/) (*Online Resource*)
     - The official book on advanced and unsafe Rust. This is your guide to the "dark arts" of writing `unsafe` code for when you need to bend the rules.
-- [**Programming WebAssembly with Rust**](PDF_LINK) (*1st Edition*)
+- [**Programming WebAssembly with Rust**](https://drive.google.com/file/d/1fA-QBP7oMWIa-JliX6lnguT-kZPbgJwX/view?usp=drive_link) (*1st Edition*)
     - An O'Reilly guide to a key use case for Rust: building high-performance, browser-native applications with WebAssembly.
 - [**Hands-On Concurrency with Rust**](PDF_LINK) (*1st Edition*)
     - A practical guide to mastering Rust's fearless concurrency for building highly parallel applications.
