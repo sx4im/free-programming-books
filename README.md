@@ -468,7 +468,7 @@ Dive deep into Rust's most powerful and complex features, including concurrency,
     - A practical guide to mastering Rust's fearless concurrency for building highly parallel applications.
 - [**Rust High Performance**](https://drive.google.com/file/d/1PRqqydj7tGarWkFgEQMYN5fKS3G6QD16/view?usp=drive_link) (*2nd Edition*)
     - A focused guide on performance tuning, benchmarking, and writing highly efficient code in Rust.
-- [**Black Hat Rust**](PDF_LINK) (*1st Edition*)
+- [**Black Hat Rust**](https://drive.google.com/file/d/1aiT-Luw2WcVkps7BaDYgO7Web1idqvX_/view?usp=drive_link) (*1st Edition*)
     - A book focused on using Rust's power for offensive and defensive security programming.
 
 
