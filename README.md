@@ -466,7 +466,7 @@ Dive deep into Rust's most powerful and complex features, including concurrency,
     - An O'Reilly guide to a key use case for Rust: building high-performance, browser-native applications with WebAssembly.
 - [**Hands-On Concurrency with Rust**](https://drive.google.com/file/d/108VatywkKNA59u__xdIXgfcELeFPGHYn/view?usp=drive_link) (*1st Edition*)
     - A practical guide to mastering Rust's fearless concurrency for building highly parallel applications.
-- [**Rust High Performance**](PDF_LINK) (*2nd Edition*)
+- [**Rust High Performance**](https://drive.google.com/file/d/1PRqqydj7tGarWkFgEQMYN5fKS3G6QD16/view?usp=drive_link) (*2nd Edition*)
     - A focused guide on performance tuning, benchmarking, and writing highly efficient code in Rust.
 - [**Black Hat Rust**](PDF_LINK) (*1st Edition*)
     - A book focused on using Rust's power for offensive and defensive security programming.
