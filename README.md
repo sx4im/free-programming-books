@@ -476,7 +476,7 @@ Dive deep into Rust's most powerful and complex features, including concurrency,
 
 Focus on applying Rust to a specific professional domain, such as web services, embedded systems, or GUI applications.
 
-- [**Zero To Production In Rust**](PDF_LINK) (*1st Edition*)
+- [**Zero To Production In Rust**](https://drive.google.com/file/d/1xOHEXyd3dF3e2MlfRVBSQ2P09gsr-ZIt/view?usp=drive_link) (*1st Edition*)
     - The definitive guide to building robust, production-ready backend web services in Rust.
 - [**The Embedded Rust Book**](PDF_LINK) (*Online Resource*)
     - The official, free online book for learning how to use Rust for bare-metal and embedded development.
